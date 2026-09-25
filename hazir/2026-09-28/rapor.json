@@ -1,0 +1,379 @@
+{
+ "tarih": "2026-09-28",
+ "gun": "Pazartesi 28 Eylül",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 317,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Sibel Can",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Sami Yusuf",
+     "saat": "21:00",
+     "mekan": "Kongre Merkezi",
+     "mekan_anahtar": "istanbul-kongre-merkezi"
+    },
+    {
+     "ad": "Aşk İçinde Mahpushane",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Nai Barghouti",
+     "saat": "20:30",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Ferit Odman Quintet",
+     "saat": "20:00",
+     "mekan": "AKM Tiyatro Salonu",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "Notting Hill",
+     "saat": "20:00",
+     "mekan": "Swissotel",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Paddington in Peru",
+     "saat": "20:00",
+     "mekan": "Four Seasons",
+     "mekan_anahtar": "four-seasons-hotel-istanbul-at-the-bosphorus"
+    },
+    {
+     "ad": "Doğaçlama Komedi",
+     "saat": "20:30",
+     "mekan": "İstanbulimpro",
+     "mekan_anahtar": "istanbulimpro-sahne"
+    },
+    {
+     "ad": "Çok Küçük Bir İhtimal",
+     "saat": "20:30",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi-buyuk-sahne"
+    },
+    {
+     "ad": "İki Kişilik Oyun",
+     "saat": "18:00",
+     "mekan": "DasDas",
+     "mekan_anahtar": "dasdas"
+    },
+    {
+     "ad": "Emaar Akvaryum",
+     "saat": "21:15",
+     "mekan": "Emaar Akvaryum",
+     "mekan_anahtar": "emaar-akvaryum"
+    },
+    {
+     "ad": "Aydınlıkevler",
+     "saat": "20:30",
+     "mekan": "Maximum UNIQ Hall",
+     "mekan_anahtar": "maximum-uniq-hall"
+    },
+    {
+     "ad": "The Invite",
+     "saat": "20:30",
+     "mekan": "Yelken Kulübü",
+     "mekan_anahtar": "istanbul-yelken-kulubu-acikhava-sinemasi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 1,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 395,
+      "y": 555,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 405,
+      "y": 454,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 413,
+      "y": 505,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 430,
+      "y": 549,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 432,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 653,
+      "y": 944,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 651,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 550,
+      "y": 508,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 470,
+      "y": 514,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 365,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 8,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sol",
+   "pencere_km": 15.0,
+   "uzak": true
+  },
+  {
+   "dosya": "03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 344,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 2,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 15.0,
+   "uzak": true
+  },
+  {
+   "dosya": "04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 68,
+   "etkinlik": 2,
+   "ilce": 1,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: diger 2 kayıt (eşik 4); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 304
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 339
+  },
+  {
+   "dosya": "story-03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 323
+  },
+  {
+   "dosya": "story-04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 102
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 427,
+  "sure_sn": 7.9
+ }
+}
