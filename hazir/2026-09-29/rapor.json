@@ -1,0 +1,415 @@
+{
+ "tarih": "2026-09-29",
+ "gun": "Salı 29 Eylül",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 313,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Buray",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Aşk İçinde Mahpushane",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Carmina Burana",
+     "saat": "20:30",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Barcelona Gipsy Balkan",
+     "saat": "20:00",
+     "mekan": "AKM Tiyatro Salonu",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "Deliriyum",
+     "saat": "20:00",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Satıcının Ölümü",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "A Star Is Born",
+     "saat": "20:30",
+     "mekan": "Feriye Açık Hava",
+     "mekan_anahtar": "feriye-acikhava-sinemasi"
+    },
+    {
+     "ad": "Ters Yüz Komedi",
+     "saat": "20:30",
+     "mekan": "Üsküdar Sahne Hane",
+     "mekan_anahtar": "uskudar-sahne-hane"
+    },
+    {
+     "ad": "İstanbul Şarkıları",
+     "saat": "20:30",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Sarathy Korwar",
+     "saat": "21:30",
+     "mekan": "Salon İKSV",
+     "mekan_anahtar": "fiba-salon-iksv"
+    },
+    {
+     "ad": "Billy Elliot",
+     "saat": "20:30",
+     "mekan": "Yelken Kulübü",
+     "mekan_anahtar": "istanbul-yelken-kulubu-acikhava-sinemasi"
+    },
+    {
+     "ad": "Seda Yüz",
+     "saat": "20:30",
+     "mekan": "Kartal Sanat",
+     "mekan_anahtar": "kartal-sanat-tiyatro-salonu"
+    },
+    {
+     "ad": "Hikayeden Adamlar",
+     "saat": "23:30",
+     "mekan": "Sahne Dragos",
+     "mekan_anahtar": "sahne-dragos"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 6,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 7,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 375,
+      "y": 550,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 439,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 408,
+      "y": 563,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 406,
+      "y": 491,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 430,
+      "y": 467,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 653,
+      "y": 944,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 624,
+      "y": 473,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 599,
+      "y": 644,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 584,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 496,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 6,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 388,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 3,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Beşiktaş",
+    "Şişli"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 330,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 12.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 185,
+   "etkinlik": 7,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 303
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 432,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 418
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 342
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 306
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 193
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 432,
+  "sure_sn": 7.9
+ }
+}
