@@ -1,0 +1,450 @@
+{
+ "tarih": "2026-09-30",
+ "gun": "Çarşamba 30 Eylül",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 317,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Koma Amed",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Stanislavsky Bale Gala",
+     "saat": "23:00",
+     "mekan": "AKM Tiyatro Salonu",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "İDOB Gala Konser",
+     "saat": "20:30",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "İlhan Erşahin",
+     "saat": "21:00",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Evrim Demirel",
+     "saat": "20:00",
+     "mekan": "Salon Mumhane",
+     "mekan_anahtar": "salon-mumhane"
+    },
+    {
+     "ad": "Satıcının Ölümü",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Sevgili Arsız Ölüm",
+     "saat": "20:30",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "TSU!",
+     "saat": "20:30",
+     "mekan": "Bant Mag. Havuz",
+     "mekan_anahtar": "bant-mag-havuz-bina"
+    },
+    {
+     "ad": "Kat:9 Daire:34",
+     "saat": "18:00",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Murat Salim Tokaç",
+     "saat": "20:00",
+     "mekan": "Palet Sanat",
+     "mekan_anahtar": "palet-sanat-sahnesi"
+    },
+    {
+     "ad": "Aşk Listesi",
+     "saat": "20:30",
+     "mekan": "Duru Tiyatro",
+     "mekan_anahtar": "duru-tiyatro-watergarden-performans-merkezi"
+    },
+    {
+     "ad": "Teşekkür Ederim Kızım",
+     "saat": "21:00",
+     "mekan": "DasDas Açık Sahne",
+     "mekan_anahtar": "dasdas-acik-sahne"
+    },
+    {
+     "ad": "Yılmaz Taner",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 5,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 7,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 359,
+      "y": 642,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 390,
+      "y": 553,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 424,
+      "y": 553,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 625,
+      "y": 934,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 675,
+      "y": 940,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 647,
+      "y": 961,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 584,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 512,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 6,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 396,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 399,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 7,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.79,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 532,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.79,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 95,
+   "etkinlik": 3,
+   "ilce": 2,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: diger 3 kayıt (eşik 4); az adaylı gün tasarımı gerekiyor",
+  "story videosu üretilemedi: ffmpeg 600 sn'de bitmedi: story.mp4"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 306
+ },
+ "story_seti": [
+  {
+   "dosya": "story.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 306
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 435
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 353
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 358
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 446
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 125
+  }
+ ]
+}
