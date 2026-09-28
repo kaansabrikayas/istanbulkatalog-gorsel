@@ -1,0 +1,435 @@
+{
+ "tarih": "2026-10-01",
+ "gun": "Perşembe 1 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 312,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Eric Christian",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Kaan Sekban",
+     "saat": "21:00",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Bizi Sezen'e Götür",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Troya",
+     "saat": "20:30",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Ormanın Meyveleriyiz",
+     "saat": "17:00",
+     "mekan": "İstanbul Modern",
+     "mekan_anahtar": "istanbul-modern"
+    },
+    {
+     "ad": "Sergen Deveci",
+     "saat": "21:00",
+     "mekan": "Zorlu PSM Touche",
+     "mekan_anahtar": "zorlu-psm-touche-by-n-kolay"
+    },
+    {
+     "ad": "Yusuf Bilal Altıntaş",
+     "saat": "21:00",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Bir Kadının Kavgaları",
+     "saat": "20:30",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Jakob Manz",
+     "saat": "21:30",
+     "mekan": "Komünite",
+     "mekan_anahtar": "komunite"
+    },
+    {
+     "ad": "Maderzat, Yeşim Salkım",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Sabotaj",
+     "saat": "20:30",
+     "mekan": "Beylikdüzü AKSM",
+     "mekan_anahtar": "beylikduzu-ataturk-kultur-ve-sanat-merkezi-baksm"
+    },
+    {
+     "ad": "Pınar Fidan",
+     "saat": "23:30",
+     "mekan": "İdris Güllüce KM",
+     "mekan_anahtar": "ibb-idris-gulluce-kultur-merkezi"
+    },
+    {
+     "ad": "Tadım Kaçtı",
+     "saat": "21:00",
+     "mekan": "DasDas Açık Sahne",
+     "mekan_anahtar": "dasdas-acik-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 5,
+      "cizgi": 0,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 1,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 5,
+      "x": 378,
+      "y": 637,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 407,
+      "y": 553,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 567,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 602,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 698,
+      "y": 899,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 653,
+      "y": 943,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 619,
+      "y": 923,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 608,
+      "y": 367,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 500,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Sarıyer",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.57,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 390,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Beşiktaş",
+    "Sarıyer"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.57,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 399,
+   "etkinlik": 7,
+   "mekan": 7,
+   "cekirdekte": 6,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 166,
+   "etkinlik": 6,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 302
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 345
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 356
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 180
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 427,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3995,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Bir Kadının Kavgaları",
+   "Troya",
+   "Kaan Sekban",
+   "Bizi Sezen'e Götür",
+   "Ormanın Meyveleriyiz"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
