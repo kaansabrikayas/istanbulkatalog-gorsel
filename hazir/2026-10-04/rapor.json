@@ -1,0 +1,472 @@
+{
+ "tarih": "2026-10-04",
+ "gun": "Pazar 4 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 312,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Don Quixote",
+     "saat": "19:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Leyla The Band",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Külkedisi",
+     "saat": "13:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Eraserhead",
+     "saat": "15:00",
+     "mekan": "Pera Müzesi",
+     "mekan_anahtar": "pera-muzesi"
+    },
+    {
+     "ad": "Hikayeden Adamlar",
+     "saat": "21:30",
+     "mekan": "Sahne Beşiktaş",
+     "mekan_anahtar": "sahne-besiktas"
+    },
+    {
+     "ad": "Alper Kul",
+     "saat": "19:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Çağrı Sinci",
+     "saat": "21:45",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Einstein'ın İhaneti",
+     "saat": "20:30",
+     "mekan": "Alan Kadıköy",
+     "mekan_anahtar": "alan-kadikoy"
+    },
+    {
+     "ad": "Bütün Çılgınlar",
+     "saat": "19:30",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Sagopa Kajmer",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Evgeny Grinko",
+     "saat": "21:00",
+     "mekan": "Yahya Kemal GM",
+     "mekan_anahtar": "yahya-kemal-beyatli-gosteri-merkezi"
+    },
+    {
+     "ad": "7 Kocalı Hürmüz",
+     "saat": "00:00",
+     "mekan": "Bostancı Gösteri",
+     "mekan_anahtar": "bostanci-gosteri-merkezi"
+    },
+    {
+     "ad": "Güldüy Güldüy Çocuk",
+     "saat": "13:00",
+     "mekan": "Maximum UNIQ Hall",
+     "mekan_anahtar": "maximum-uniq-hall"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 2,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 331,
+      "y": 591,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 553,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 509,
+      "y": 497,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 567,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 707,
+      "y": 799,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 653,
+      "y": 943,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 622,
+      "y": 924,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 602,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 480,
+   "etkinlik": 7,
+   "mekan": 5,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    7
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 396,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 3,
+   "ad_punto": 36,
+   "sigdi": true,
+   "ilceler": [
+    "Beşiktaş",
+    "Sarıyer",
+    "Şişli"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    8,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 305,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 7,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.93,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 301,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.93,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 224,
+   "etkinlik": 9,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 300
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 441,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 407
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 348
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 287
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 286
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 222
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 441,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3993,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Don Quixote",
+   "Külkedisi",
+   "Alper Kul",
+   "Leyla The Band",
+   "Eraserhead"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
