@@ -1,0 +1,312 @@
+{
+ "tarih": "2026-10-05",
+ "gun": "Pazartesi 5 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 250,
+   "sol": 1,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Kardeş Türküler",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "TuzBiber 6'lı",
+     "saat": "20:00",
+     "mekan": "JJ Pub Kanyon",
+     "mekan_anahtar": "jj-pub-kanyon"
+    },
+    {
+     "ad": "La La Land",
+     "saat": "20:30",
+     "mekan": "Feriye Açık Hava",
+     "mekan_anahtar": "feriye-acikhava-sinemasi"
+    },
+    {
+     "ad": "Dünyanın En Yavaş",
+     "saat": "20:30",
+     "mekan": "Pax Sahne",
+     "mekan_anahtar": "pax-sahne"
+    },
+    {
+     "ad": "Karmakarışık",
+     "saat": "20:30",
+     "mekan": "Entropi Sahne",
+     "mekan_anahtar": "entropi-sahne"
+    },
+    {
+     "ad": "Evgeny Grinko",
+     "saat": "21:00",
+     "mekan": "Leyla Gencer Opera",
+     "mekan_anahtar": "leyla-gencer-opera-ve-sanat-merkezi"
+    },
+    {
+     "ad": "Ecem Erkek: Kara Kız",
+     "saat": "20:30",
+     "mekan": "Maximum UNIQ Hall",
+     "mekan_anahtar": "maximum-uniq-hall"
+    },
+    {
+     "ad": "Düş Payı",
+     "saat": "20:30",
+     "mekan": "Sahne Dragos",
+     "mekan_anahtar": "sahne-dragos"
+    },
+    {
+     "ad": "Üç Kız Kardeş",
+     "saat": "20:30",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 1,
+      "cizgi": 0,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 3,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 1,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 651,
+      "y": 931,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 624,
+      "y": 473,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 617,
+      "y": 919,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 544,
+      "y": 229,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 6,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 7,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 8,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 9,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 285,
+   "etkinlik": 4,
+   "mekan": 4,
+   "cekirdekte": 3,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true
+  },
+  {
+   "dosya": "03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 259,
+   "etkinlik": 2,
+   "mekan": 2,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false
+  },
+  {
+   "dosya": "04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 108,
+   "etkinlik": 4,
+   "ilce": 2,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: avrupa 4 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor",
+  "seyrek slayt: anadolu 2 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 251
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 349,
+   "sure_sn": 6.8
+  },
+  {
+   "dosya": "story-02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 278
+  },
+  {
+   "dosya": "story-03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 244
+  },
+  {
+   "dosya": "story-04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 133
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 349,
+  "sure_sn": 6.8
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3008,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Kardeş Türküler",
+   "La La Land",
+   "TuzBiber 6'lı",
+   "Dünyanın En Yavaş",
+   "Karmakarışık"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
