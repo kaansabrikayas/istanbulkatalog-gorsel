@@ -1,0 +1,435 @@
+{
+ "tarih": "2026-10-07",
+ "gun": "Çarşamba 7 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 311,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Cinematic Orchestra",
+     "saat": "21:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "CRR Senfoni Orkestrası",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Köpek Kalbi",
+     "saat": "20:00",
+     "mekan": "Kerem Yılmazer",
+     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+    },
+    {
+     "ad": "Gökhan Türkmen",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Notting Hill",
+     "saat": "20:00",
+     "mekan": "Swissotel",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Dhafer Youssef",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Kadınlık Bizde Kalsın",
+     "saat": "20:30",
+     "mekan": "Üsküdar Sahne Hane",
+     "mekan_anahtar": "uskudar-sahne-hane"
+    },
+    {
+     "ad": "Neşe-i Muhabbet",
+     "saat": "20:30",
+     "mekan": "Bağlarbaşı KM",
+     "mekan_anahtar": "baglarbasi-kongre-ve-kultur-merkezi-bogazici-salonu"
+    },
+    {
+     "ad": "Ceylin",
+     "saat": "18:30",
+     "mekan": "Kadıköy Sineması",
+     "mekan_anahtar": "kadikoy-sinemasi-salon-1"
+    },
+    {
+     "ad": "Ali Poyrazoğlu",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Salih Bademci: Sesler",
+     "saat": "18:00",
+     "mekan": "DasDas",
+     "mekan_anahtar": "dasdas"
+    },
+    {
+     "ad": "Aşk Listesi",
+     "saat": "20:30",
+     "mekan": "Beylikdüzü AKM",
+     "mekan_anahtar": "beylikduzu-ataturk-kultur-ve-sanat-merkezi-baksm"
+    },
+    {
+     "ad": "Meksika Açmazı",
+     "saat": "20:30",
+     "mekan": "Sahne Dragos",
+     "mekan_anahtar": "sahne-dragos"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 1,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 2,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 405,
+      "y": 492,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 442,
+      "y": 473,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 411,
+      "y": 455,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 470,
+      "y": 514,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 567,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 682,
+      "y": 651,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 654,
+      "y": 933,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 599,
+      "y": 644,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 602,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 491,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.67,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 395,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.67,
+   "numara": [
+    7,
+    12
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 304,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 22.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 152,
+   "etkinlik": 6,
+   "ilce": 4,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 302
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 429,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 419
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 351
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 288
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 169
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 429,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3555,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Gökhan Türkmen",
+   "Notting Hill",
+   "CRR Senfoni Orkestrası",
+   "Dhafer Youssef",
+   "Neşe-i Muhabbet"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
