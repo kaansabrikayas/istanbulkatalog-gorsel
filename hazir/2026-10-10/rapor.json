@@ -1,0 +1,478 @@
+{
+ "tarih": "2026-10-10",
+ "gun": "Cumartesi 10 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 294,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Çilekeş",
+     "saat": "22:00",
+     "mekan": "KüçükÇiftlik Park",
+     "mekan_anahtar": "kucukciftlik-park"
+    },
+    {
+     "ad": "Köpek Kalbi",
+     "saat": "20:00",
+     "mekan": "Kerem Yılmazer",
+     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+    },
+    {
+     "ad": "Afife",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Harold ve Maude",
+     "saat": "15:00",
+     "mekan": "Pera Müzesi",
+     "mekan_anahtar": "pera-muzesi"
+    },
+    {
+     "ad": "Gül İrepoğlu Anlatıyor",
+     "saat": "14:00",
+     "mekan": "BlackBox",
+     "mekan_anahtar": "blackbox-rhm"
+    },
+    {
+     "ad": "Ozbi",
+     "saat": "21:30",
+     "mekan": "IF Beşiktaş",
+     "mekan_anahtar": "if-performance-hall-besiktas"
+    },
+    {
+     "ad": "Özgün",
+     "saat": "20:00",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Hüsnü Arkan",
+     "saat": "21:30",
+     "mekan": "Kadıköy Sahne",
+     "mekan_anahtar": "kadikoy-sahne"
+    },
+    {
+     "ad": "Kim Kime Dum Duma",
+     "saat": "21:00",
+     "mekan": "Paribu Art",
+     "mekan_anahtar": "paribu-art-yan-sahne"
+    },
+    {
+     "ad": "Serdar Ortaç",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Selami Şahin",
+     "saat": "21:00",
+     "mekan": "Ataköy Marina",
+     "mekan_anahtar": "atakoy-marina-acik-hava-sahnesi"
+    },
+    {
+     "ad": "Murat Dalkılıç",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Soner Sarıkabadayı",
+     "saat": "21:00",
+     "mekan": "JJ Kartal",
+     "mekan_anahtar": "jolly-joker-kartal-istmarina"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 319,
+      "y": 583,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 349,
+      "y": 603,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 414,
+      "y": 481,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 443,
+      "y": 501,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 699,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 650,
+      "y": 917,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 615,
+      "y": 920,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 520,
+      "y": 497,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 512,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 3,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.64,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 399,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.64,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 345,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 8,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.79,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 517,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir",
+    "Üsküdar"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.79,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 319,
+   "etkinlik": 14,
+   "ilce": 6,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "görsel indirilemedi: Ozbi",
+  "görsel indirilemedi: Ozbi"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 287
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 414,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 435
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 355
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 317
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 435
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 304
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 414,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3266,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Afife",
+   "Çilekeş",
+   "Hüsnü Arkan",
+   "Harold ve Maude",
+   "Gül İrepoğlu Anlatıyor"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
