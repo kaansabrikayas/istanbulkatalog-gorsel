@@ -9,27 +9,27 @@
     1080,
     1350
    ],
-   "kb": 294,
+   "kb": 300,
    "sol": 5,
    "sag": 4,
    "dis": 4,
    "atilan": 0,
    "sira": [
     {
-     "ad": "Çilekeş",
-     "saat": "22:00",
-     "mekan": "KüçükÇiftlik Park",
-     "mekan_anahtar": "kucukciftlik-park"
+     "ad": "Tartuffe",
+     "saat": "18:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
     },
     {
-     "ad": "Köpek Kalbi",
-     "saat": "20:00",
-     "mekan": "Kerem Yılmazer",
-     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+     "ad": "Yoldan Çıkan Oyun",
+     "saat": "18:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
     },
     {
      "ad": "Afife",
-     "saat": "20:00",
+     "saat": "23:00",
      "mekan": "AKM",
      "mekan_anahtar": "akm-turk-telekom-opera-salonu"
     },
@@ -46,10 +46,16 @@
      "mekan_anahtar": "blackbox-rhm"
     },
     {
-     "ad": "Ozbi",
-     "saat": "21:30",
-     "mekan": "IF Beşiktaş",
-     "mekan_anahtar": "if-performance-hall-besiktas"
+     "ad": "Bir Ziyaret",
+     "saat": "20:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Çilekeş",
+     "saat": "22:00",
+     "mekan": "KüçükÇiftlik Park",
+     "mekan_anahtar": "kucukciftlik-park"
     },
     {
      "ad": "Özgün",
@@ -62,12 +68,6 @@
      "saat": "21:30",
      "mekan": "Kadıköy Sahne",
      "mekan_anahtar": "kadikoy-sahne"
-    },
-    {
-     "ad": "Kim Kime Dum Duma",
-     "saat": "21:00",
-     "mekan": "Paribu Art",
-     "mekan_anahtar": "paribu-art-yan-sahne"
     },
     {
      "ad": "Serdar Ortaç",
@@ -193,43 +193,43 @@
      },
      {
       "no": 2,
-      "x": 414,
-      "y": 481,
+      "x": 384,
+      "y": 480,
       "w": 38,
       "h": 38
      },
      {
       "no": 1,
-      "x": 443,
-      "y": 501,
+      "x": 438,
+      "y": 465,
       "w": 38,
       "h": 38
      },
      {
       "no": 9,
-      "x": 699,
-      "y": 909,
-      "w": 38,
-      "h": 38
-     },
-     {
-      "no": 8,
       "x": 650,
       "y": 917,
       "w": 38,
       "h": 38
      },
      {
-      "no": 7,
+      "no": 8,
       "x": 615,
       "y": 920,
       "w": 38,
       "h": 38
      },
      {
+      "no": 7,
+      "x": 448,
+      "y": 508,
+      "w": 38,
+      "h": 38
+     },
+     {
       "no": 6,
-      "x": 520,
-      "y": 497,
+      "x": 417,
+      "y": 493,
       "w": 38,
       "h": 38
      }
@@ -272,22 +272,22 @@
     1080,
     1350
    ],
-   "kb": 512,
+   "kb": 517,
    "etkinlik": 8,
    "mekan": 8,
    "cekirdekte": 3,
    "ad_punto": 30,
    "sigdi": true,
    "ilceler": [
-    "Beyoğlu",
     "Şişli",
+    "Beyoğlu",
     "Sarıyer"
    ],
    "taraf": "sol",
    "pencere_km": 3.5,
    "uzak": false,
    "panorama": 1,
-   "kapsama": 0.64,
+   "kapsama": 0.71,
    "numara": [
     1,
     8
@@ -299,22 +299,21 @@
     1080,
     1350
    ],
-   "kb": 399,
+   "kb": 408,
    "etkinlik": 6,
    "mekan": 6,
-   "cekirdekte": 4,
+   "cekirdekte": 5,
    "ad_punto": 38,
    "sigdi": true,
    "ilceler": [
     "Şişli",
-    "Sarıyer",
-    "Beşiktaş"
+    "Sarıyer"
    ],
    "taraf": "sag",
    "pencere_km": 3.5,
    "uzak": false,
    "panorama": 2,
-   "kapsama": 0.64,
+   "kapsama": 0.71,
    "numara": [
     9,
     14
@@ -326,10 +325,10 @@
     1080,
     1350
    ],
-   "kb": 345,
+   "kb": 346,
    "etkinlik": 8,
    "mekan": 8,
-   "cekirdekte": 8,
+   "cekirdekte": 7,
    "ad_punto": 30,
    "sigdi": true,
    "ilceler": [
@@ -351,10 +350,10 @@
     1080,
     1350
    ],
-   "kb": 517,
+   "kb": 516,
    "etkinlik": 6,
    "mekan": 6,
-   "cekirdekte": 2,
+   "cekirdekte": 3,
    "ad_punto": 38,
    "sigdi": true,
    "ilceler": [
@@ -378,24 +377,21 @@
     1080,
     1350
    ],
-   "kb": 319,
+   "kb": 321,
    "etkinlik": 14,
    "ilce": 6,
    "satir": 128,
    "sigdi": true
   }
  ],
- "uyarilar": [
-  "görsel indirilemedi: Ozbi",
-  "görsel indirilemedi: Ozbi"
- ],
+ "uyarilar": [],
  "story": {
   "dosya": "story.jpg",
   "boyut": [
    1080,
    1920
   ],
-  "kb": 287
+  "kb": 294
  },
  "story_seti": [
   {
@@ -404,7 +400,7 @@
     1080,
     1920
    ],
-   "kb": 414,
+   "kb": 418,
    "sure_sn": 7.9
   },
   {
@@ -413,7 +409,7 @@
     1080,
     1920
    ],
-   "kb": 435
+   "kb": 438
   },
   {
    "dosya": "story-03-avrupa-harita-2.jpg",
@@ -421,7 +417,7 @@
     1080,
     1920
    ],
-   "kb": 355
+   "kb": 360
   },
   {
    "dosya": "story-04-anadolu-harita-1.jpg",
@@ -429,7 +425,7 @@
     1080,
     1920
    ],
-   "kb": 317
+   "kb": 319
   },
   {
    "dosya": "story-05-anadolu-harita-2.jpg",
@@ -437,7 +433,7 @@
     1080,
     1920
    ],
-   "kb": 435
+   "kb": 433
   },
   {
    "dosya": "story-06-diger-ilceler.jpg",
@@ -445,7 +441,7 @@
     1080,
     1920
    ],
-   "kb": 304
+   "kb": 306
   }
  ],
  "story_video": {
@@ -454,7 +450,7 @@
    1080,
    1920
   ],
-  "kb": 414,
+  "kb": 418,
   "sure_sn": 7.9
  },
  "reel": {
@@ -463,14 +459,14 @@
    1080,
    1920
   ],
-  "kb": 3266,
+  "kb": 2974,
   "sure_sn": 13.7,
   "one_cikan": [
    "Afife",
    "Çilekeş",
    "Hüsnü Arkan",
-   "Harold ve Maude",
-   "Gül İrepoğlu Anlatıyor"
+   "Yoldan Çıkan Oyun",
+   "Harold ve Maude"
   ],
   "kapak": "reel-kapak.jpg",
   "muzik": "strolling-stripes.mp3"
