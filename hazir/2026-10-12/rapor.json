@@ -1,0 +1,333 @@
+{
+ "tarih": "2026-10-12",
+ "gun": "Pazartesi 12 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 252,
+   "sol": 5,
+   "sag": 1,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Ercan Saatçi & Çelik",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Musica Poetica",
+     "saat": "23:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Musicandle Concerts",
+     "saat": "20:30",
+     "mekan": "Saint Antuan",
+     "mekan_anahtar": "saint-antuan-kilisesi"
+    },
+    {
+     "ad": "Barbershop İstanbul",
+     "saat": "20:30",
+     "mekan": "Minoa Pera",
+     "mekan_anahtar": "minoa-pera"
+    },
+    {
+     "ad": "Holy Fuck",
+     "saat": "20:30",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Eat Pray Love",
+     "saat": "20:30",
+     "mekan": "Feriye Açık Hava",
+     "mekan_anahtar": "feriye-acikhava-sinemasi"
+    },
+    {
+     "ad": "NO: 304",
+     "saat": "20:30",
+     "mekan": "Duru Tiyatro",
+     "mekan_anahtar": "duru-tiyatro-watergarden-performans-merkezi"
+    },
+    {
+     "ad": "İçimizdeki Şeytan",
+     "saat": "20:30",
+     "mekan": "Holly Sahne",
+     "mekan_anahtar": "holly-sahne-cafe"
+    },
+    {
+     "ad": "Afife Jale",
+     "saat": "20:30",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    },
+    {
+     "ad": "Suç ve Ceza",
+     "saat": "19:40",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 5,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 306,
+      "y": 604,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 340,
+      "y": 617,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 345,
+      "y": 582,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 624,
+      "y": 473,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 7,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 8,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 9,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 10,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 486,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false
+  },
+  {
+   "dosya": "03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 509,
+   "etkinlik": 1,
+   "mekan": 1,
+   "cekirdekte": 0,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false
+  },
+  {
+   "dosya": "04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 89,
+   "etkinlik": 3,
+   "ilce": 2,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: anadolu 1 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor",
+  "seyrek slayt: diger 3 kayıt (eşik 4); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 252
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 351,
+   "sure_sn": 7.1
+  },
+  {
+   "dosya": "story-02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 414
+  },
+  {
+   "dosya": "story-03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 424
+  },
+  {
+   "dosya": "story-04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 118
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 351,
+  "sure_sn": 7.1
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3250,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Ercan Saatçi & Çelik",
+   "Musica Poetica",
+   "Eat Pray Love",
+   "Barbershop İstanbul",
+   "Holy Fuck"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
