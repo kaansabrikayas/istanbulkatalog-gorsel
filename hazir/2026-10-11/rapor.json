@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-10-11",
+ "gun": "Pazar 11 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 307,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Haggard",
+     "saat": "21:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Kaan Tangöze",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "ADK Gençlik Orkestrası",
+     "saat": "20:30",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "Ucuz Roman",
+     "saat": "15:00",
+     "mekan": "Pera Müzesi",
+     "mekan_anahtar": "pera-muzesi"
+    },
+    {
+     "ad": "Emir Ersoy Cuban Beat",
+     "saat": "21:00",
+     "mekan": "Swissotel",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Savina Yannatou",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Anjelika Akbar & Çınar",
+     "saat": "20:00",
+     "mekan": "Altunizade KM",
+     "mekan_anahtar": "uskudar-altunizade-kultur-merkezi"
+    },
+    {
+     "ad": "Octavarium",
+     "saat": "21:00",
+     "mekan": "The Wall Kadıköy",
+     "mekan_anahtar": "the-wall-saloon-performance"
+    },
+    {
+     "ad": "Kat:9 Daire:34",
+     "saat": "18:00",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Hikayeden Adamlar",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Hüsnü Arkan",
+     "saat": "20:30",
+     "mekan": "MKM Beşiktaş",
+     "mekan_anahtar": "mkm-attila-ilhan-salonu"
+    },
+    {
+     "ad": "Kirli Sepeti",
+     "saat": "20:00",
+     "mekan": "DasDas",
+     "mekan_anahtar": "dasdas"
+    },
+    {
+     "ad": "Özgür Turhan",
+     "saat": "23:30",
+     "mekan": "Kadıköy Eğitim Sahnesi",
+     "mekan_anahtar": "kadikoy-egitim-sahnesi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 2,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 5,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 7,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 331,
+      "y": 591,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 549,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 422,
+      "y": 463,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 470,
+      "y": 514,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 567,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 714,
+      "y": 697,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 653,
+      "y": 943,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 618,
+      "y": 922,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 602,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 516,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 7,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.79,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 409,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beşiktaş",
+    "Şişli"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.79,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 421,
+   "etkinlik": 7,
+   "mekan": 5,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.57,
+   "numara": [
+    1,
+    7
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 531,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.57,
+   "numara": [
+    8,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 288,
+   "etkinlik": 13,
+   "ilce": 4,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 298
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 431,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 434
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 355
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 369
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 442
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 275
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 431,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3561,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Ucuz Roman",
+   "Kaan Tangöze",
+   "Haggard",
+   "ADK Gençlik Orkestrası",
+   "Kat:9 Daire:34"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
