@@ -1,0 +1,434 @@
+{
+ "tarih": "2026-10-13",
+ "gun": "Salı 13 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 311,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Hepyek",
+     "saat": "18:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "HiraiZerdüş",
+     "saat": "20:30",
+     "mekan": "Lütfi Kırdar",
+     "mekan_anahtar": "lutfi-kirdar-anadolu-auditorium"
+    },
+    {
+     "ad": "Ölü Canlar",
+     "saat": "20:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "Öykü Çam",
+     "saat": "21:00",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Saraydan Kız Kaçırma",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Shirley Valentine",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Tarık Akan Anması",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Serkan Kaya",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Havva",
+     "saat": "18:00",
+     "mekan": "Moda Sahnesi",
+     "mekan_anahtar": "moda-sahnesi"
+    },
+    {
+     "ad": "Özgür Turhan",
+     "saat": "20:30",
+     "mekan": "Beylikdüzü BAKSM",
+     "mekan_anahtar": "beylikduzu-ataturk-kultur-ve-sanat-merkezi-baksm"
+    },
+    {
+     "ad": "Doğu Ekspresinde",
+     "saat": "20:30",
+     "mekan": "Cennet Kültür Mrk.",
+     "mekan_anahtar": "cennet-kultur-merkezi"
+    },
+    {
+     "ad": "Aşk Hikayen Düşmüş",
+     "saat": "20:30",
+     "mekan": "Sahne Dragos",
+     "mekan_anahtar": "sahne-dragos"
+    },
+    {
+     "ad": "Keloğlan",
+     "saat": "17:40",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 2,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 3,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 6,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 8,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 400,
+      "y": 577,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 421,
+      "y": 512,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 408,
+      "y": 544,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 398,
+      "y": 485,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 653,
+      "y": 943,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 426,
+      "y": 443,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 433,
+      "y": 477,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 488,
+   "etkinlik": 6,
+   "mekan": 4,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.89,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 331,
+   "etkinlik": 3,
+   "mekan": 3,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.89,
+   "numara": [
+    7,
+    9
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 228,
+   "etkinlik": 3,
+   "mekan": 3,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 15.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 214,
+   "etkinlik": 8,
+   "ilce": 7,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: anadolu 3 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 299
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 429,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 411
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 295
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 225
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 216
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 429,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3333,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Tarık Akan Anması",
+   "Serkan Kaya",
+   "Saraydan Kız Kaçırma",
+   "Shirley Valentine",
+   "Hepyek"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
