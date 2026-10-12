@@ -1,0 +1,456 @@
+{
+ "tarih": "2026-10-14",
+ "gun": "Çarşamba 14 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 317,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Hayat Der Gülümserim",
+     "saat": "20:00",
+     "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
+     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+    },
+    {
+     "ad": "Afife - İstanbul DOB",
+     "saat": "20:00",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
+     "saat": "19:30",
+     "mekan": "Arter",
+     "mekan_anahtar": "arter"
+    },
+    {
+     "ad": "Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
+     "saat": "23:00",
+     "mekan": "AKM Tiyatro Salonu",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "25 Years Old & Up Meetup Mixer",
+     "saat": "20:00",
+     "mekan": "Yabangee Base (Art Stage Collective)",
+     "mekan_anahtar": "yabangee-base-art-stage-collective"
+    },
+    {
+     "ad": "Lesli Karavil Stand-Up",
+     "saat": "20:00",
+     "mekan": "JJ Pub Kanyon",
+     "mekan_anahtar": "jj-pub-kanyon"
+    },
+    {
+     "ad": "Annemiz Evde Yok",
+     "saat": "20:30",
+     "mekan": "Üsküdar Sahne Hane",
+     "mekan_anahtar": "uskudar-sahne-hane"
+    },
+    {
+     "ad": "Sufle",
+     "saat": "21:30",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Kalfalar Rusya'da",
+     "saat": "20:30",
+     "mekan": "İstanbulimpro Sahne",
+     "mekan_anahtar": "istanbulimpro-sahne"
+    },
+    {
+     "ad": "Devlerin Savaşı",
+     "saat": "20:30",
+     "mekan": "DasDas",
+     "mekan_anahtar": "dasdas"
+    },
+    {
+     "ad": "Park Of İstanbul Hayvanat Bahçesi",
+     "saat": "18:30",
+     "mekan": "Park of İstanbul Hayvanat Bahçesi",
+     "mekan_anahtar": "park-of-istanbul-hayvanat-bahcesi"
+    },
+    {
+     "ad": "Tut Elimden Rovni",
+     "saat": "20:30",
+     "mekan": "Tiyatro Keyfi Lab - Savaş Başar Sahnesi",
+     "mekan_anahtar": "tiyatro-keyfi-lab-savas-basar-sahnesi"
+    },
+    {
+     "ad": "90lar",
+     "saat": "20:30",
+     "mekan": "Altı Üstü Kabare",
+     "mekan_anahtar": "alti-ustu-kabare"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 2,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 3,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 353,
+      "y": 521,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 397,
+      "y": 591,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 406,
+      "y": 526,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 413,
+      "y": 560,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 415,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 651,
+      "y": 910,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 618,
+      "y": 920,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 599,
+      "y": 644,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 544,
+      "y": 229,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 518,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 8,
+   "ad_punto": 28,
+   "sigdi": false,
+   "ilceler": [
+    "Beyoğlu"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 423,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 319,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 4,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 126,
+   "etkinlik": 4,
+   "ilce": 2,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "görsel indirilemedi: Hayat Der Gülümserim",
+  "görsel indirilemedi: Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
+  "görsel indirilemedi: 25 Years Old & Up Meetup Mixer",
+  "görsel indirilemedi: Lesli Karavil Stand-Up",
+  "görsel indirilemedi: Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
+  "görsel indirilemedi: Fosforlu Cevriye",
+  "görsel indirilemedi: Yıldız Tilbe",
+  "görsel indirilemedi: Anadolu Efes - Bayern Münih - Euroleague",
+  "görsel indirilemedi: Geçmişin Gölgesi",
+  "görsel indirilemedi: Büyük Ev Ablukada Akustik Konseri",
+  "görsel indirilemedi: Aston Villa - Fenerbahçe",
+  "görsel indirilemedi: Hapoel - Beşiktaş  - Euroleague",
+  "görsel indirilemedi: Devlerin Savaşı",
+  "görsel indirilemedi: Sufle",
+  "görsel indirilemedi: Kalfalar Rusya'da",
+  "görsel indirilemedi: Davetli Misafir",
+  "görsel indirilemedi: Hadi Öldürsene Canikom",
+  "görsel indirilemedi: Park Of İstanbul Hayvanat Bahçesi",
+  "görsel indirilemedi: Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
+  "görsel indirilemedi: 25 Years Old & Up Meetup Mixer",
+  "görsel indirilemedi: Lesli Karavil Stand-Up",
+  "görsel indirilemedi: Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
+  "görsel indirilemedi: Hayat Der Gülümserim",
+  "görsel indirilemedi: Sufle",
+  "görsel indirilemedi: Kalfalar Rusya'da",
+  "görsel indirilemedi: Devlerin Savaşı",
+  "görsel indirilemedi: Park Of İstanbul Hayvanat Bahçesi",
+  "02-avrupa-harita-1: içerik alana sığmadı"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 311
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 455,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 445
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 374
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 304
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 150
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 455,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 687,
+  "sure_sn": 4.2,
+  "one_cikan": [],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
