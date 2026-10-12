@@ -9,47 +9,53 @@
     1080,
     1350
    ],
-   "kb": 317,
+   "kb": 323,
    "sol": 5,
    "sag": 4,
    "dis": 4,
    "atilan": 0,
    "sira": [
     {
-     "ad": "Hayat Der Gülümserim",
-     "saat": "20:00",
-     "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
-     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+     "ad": "Hepyek",
+     "saat": "18:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
     },
     {
-     "ad": "Afife - İstanbul DOB",
-     "saat": "20:00",
+     "ad": "Afife",
+     "saat": "23:00",
      "mekan": "AKM Türk Telekom Opera Salonu",
      "mekan_anahtar": "akm-turk-telekom-opera-salonu"
     },
     {
-     "ad": "Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
-     "saat": "19:30",
-     "mekan": "Arter",
-     "mekan_anahtar": "arter"
+     "ad": "Ölü Canlar",
+     "saat": "20:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
     },
     {
-     "ad": "Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
+     "ad": "Büyük Ev Ablukada",
+     "saat": "20:00",
+     "mekan": "Muammer Karaca",
+     "mekan_anahtar": "muammer-karaca-tiyatrosu"
+    },
+    {
+     "ad": "Kök ve Kanat",
      "saat": "23:00",
      "mekan": "AKM Tiyatro Salonu",
      "mekan_anahtar": "akm-tiyatro-salonu"
     },
     {
-     "ad": "25 Years Old & Up Meetup Mixer",
-     "saat": "20:00",
-     "mekan": "Yabangee Base (Art Stage Collective)",
-     "mekan_anahtar": "yabangee-base-art-stage-collective"
+     "ad": "Yıldız Tilbe",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
     },
     {
-     "ad": "Lesli Karavil Stand-Up",
+     "ad": "Fosforlu Cevriye",
      "saat": "20:00",
-     "mekan": "JJ Pub Kanyon",
-     "mekan_anahtar": "jj-pub-kanyon"
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
     },
     {
      "ad": "Annemiz Evde Yok",
@@ -58,81 +64,75 @@
      "mekan_anahtar": "uskudar-sahne-hane"
     },
     {
-     "ad": "Sufle",
-     "saat": "21:30",
-     "mekan": "Dorock XL",
-     "mekan_anahtar": "dorock-xl"
-    },
-    {
      "ad": "Kalfalar Rusya'da",
      "saat": "20:30",
-     "mekan": "İstanbulimpro Sahne",
+     "mekan": "İstanbulimpro",
      "mekan_anahtar": "istanbulimpro-sahne"
     },
     {
-     "ad": "Devlerin Savaşı",
-     "saat": "20:30",
-     "mekan": "DasDas",
-     "mekan_anahtar": "dasdas"
+     "ad": "Gırgıriye Müzikali",
+     "saat": "20:00",
+     "mekan": "Ataköy Marina",
+     "mekan_anahtar": "atakoy-marina-acik-hava-sahnesi"
     },
     {
-     "ad": "Park Of İstanbul Hayvanat Bahçesi",
-     "saat": "18:30",
-     "mekan": "Park of İstanbul Hayvanat Bahçesi",
-     "mekan_anahtar": "park-of-istanbul-hayvanat-bahcesi"
+     "ad": "Profesyonel",
+     "saat": "20:30",
+     "mekan": "Bostancı GM",
+     "mekan_anahtar": "bostanci-gosteri-merkezi"
+    },
+    {
+     "ad": "Salih Bademci - Sesler",
+     "saat": "20:30",
+     "mekan": "Maximum UNIQ Hall",
+     "mekan_anahtar": "maximum-uniq-hall"
     },
     {
      "ad": "Tut Elimden Rovni",
      "saat": "20:30",
-     "mekan": "Tiyatro Keyfi Lab - Savaş Başar Sahnesi",
+     "mekan": "Tiyatro Keyfi Lab",
      "mekan_anahtar": "tiyatro-keyfi-lab-savas-basar-sahnesi"
-    },
-    {
-     "ad": "90lar",
-     "saat": "20:30",
-     "mekan": "Altı Üstü Kabare",
-     "mekan_anahtar": "alti-ustu-kabare"
     }
    ],
    "geometri": {
     "kartlar": [
      {
-      "no": 3,
-      "cizgi": 0,
-      "x": 10,
-      "y": 460,
-      "w": 340,
-      "h": 166
-     },
-     {
-      "no": 5,
-      "cizgi": 1,
-      "x": 10,
-      "y": 800,
-      "w": 340,
-      "h": 166
-     },
-     {
-      "no": 2,
-      "cizgi": 2,
-      "x": 10,
-      "y": 290,
-      "w": 340,
-      "h": 166
-     },
-     {
       "no": 4,
-      "cizgi": 3,
+      "cizgi": 0,
       "x": 10,
       "y": 630,
       "w": 340,
       "h": 166
      },
      {
+      "no": 2,
+      "cizgi": 1,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
       "no": 1,
-      "cizgi": 4,
+      "cizgi": 3,
       "x": 10,
       "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 4,
+      "x": 10,
+      "y": 460,
       "w": 340,
       "h": 166
      },
@@ -153,55 +153,55 @@
       "h": 166
      },
      {
-      "no": 7,
+      "no": 6,
       "cizgi": 7,
       "x": 730,
-      "y": 460,
+      "y": 290,
       "w": 340,
       "h": 166
      },
      {
-      "no": 6,
+      "no": 7,
       "cizgi": 8,
       "x": 730,
-      "y": 290,
+      "y": 460,
       "w": 340,
       "h": 166
      }
     ],
     "igneler": [
      {
-      "no": 3,
-      "x": 353,
-      "y": 521,
-      "w": 38,
-      "h": 38
-     },
-     {
-      "no": 5,
-      "x": 397,
-      "y": 591,
+      "no": 4,
+      "x": 338,
+      "y": 597,
       "w": 38,
       "h": 38
      },
      {
       "no": 2,
-      "x": 406,
-      "y": 526,
+      "x": 401,
+      "y": 516,
       "w": 38,
       "h": 38
      },
      {
-      "no": 4,
-      "x": 413,
-      "y": 560,
+      "no": 5,
+      "x": 404,
+      "y": 583,
       "w": 38,
       "h": 38
      },
      {
       "no": 1,
-      "x": 415,
-      "y": 482,
+      "x": 431,
+      "y": 543,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 394,
+      "y": 550,
       "w": 38,
       "h": 38
      },
@@ -214,13 +214,6 @@
      },
      {
       "no": 8,
-      "x": 618,
-      "y": 920,
-      "w": 38,
-      "h": 38
-     },
-     {
-      "no": 7,
       "x": 599,
       "y": 644,
       "w": 38,
@@ -228,8 +221,15 @@
      },
      {
       "no": 6,
-      "x": 544,
-      "y": 229,
+      "x": 434,
+      "y": 464,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 404,
+      "y": 482,
       "w": 38,
       "h": 38
      }
@@ -272,20 +272,22 @@
     1080,
     1350
    ],
-   "kb": 518,
+   "kb": 523,
    "etkinlik": 8,
-   "mekan": 6,
-   "cekirdekte": 8,
-   "ad_punto": 28,
-   "sigdi": false,
+   "mekan": 7,
+   "cekirdekte": 6,
+   "ad_punto": 32,
+   "sigdi": true,
    "ilceler": [
-    "Beyoğlu"
+    "Beyoğlu",
+    "Şişli",
+    "Sarıyer"
    ],
    "taraf": "sol",
    "pencere_km": 3.5,
    "uzak": false,
    "panorama": 1,
-   "kapsama": 0.86,
+   "kapsama": 0.71,
    "numara": [
     1,
     8
@@ -297,7 +299,7 @@
     1080,
     1350
    ],
-   "kb": 423,
+   "kb": 428,
    "etkinlik": 6,
    "mekan": 6,
    "cekirdekte": 1,
@@ -311,7 +313,7 @@
    "pencere_km": 3.5,
    "uzak": false,
    "panorama": 2,
-   "kapsama": 0.86,
+   "kapsama": 0.71,
    "numara": [
     9,
     14
@@ -323,11 +325,11 @@
     1080,
     1350
    ],
-   "kb": 319,
-   "etkinlik": 8,
-   "mekan": 8,
+   "kb": 316,
+   "etkinlik": 7,
+   "mekan": 7,
    "cekirdekte": 4,
-   "ad_punto": 30,
+   "ad_punto": 36,
    "sigdi": true,
    "ilceler": [
     "Kadıköy",
@@ -344,42 +346,15 @@
     1080,
     1350
    ],
-   "kb": 126,
-   "etkinlik": 4,
-   "ilce": 2,
+   "kb": 95,
+   "etkinlik": 3,
+   "ilce": 1,
    "satir": 128,
    "sigdi": true
   }
  ],
  "uyarilar": [
-  "görsel indirilemedi: Hayat Der Gülümserim",
-  "görsel indirilemedi: Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
-  "görsel indirilemedi: 25 Years Old & Up Meetup Mixer",
-  "görsel indirilemedi: Lesli Karavil Stand-Up",
-  "görsel indirilemedi: Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
-  "görsel indirilemedi: Fosforlu Cevriye",
-  "görsel indirilemedi: Yıldız Tilbe",
-  "görsel indirilemedi: Anadolu Efes - Bayern Münih - Euroleague",
-  "görsel indirilemedi: Geçmişin Gölgesi",
-  "görsel indirilemedi: Büyük Ev Ablukada Akustik Konseri",
-  "görsel indirilemedi: Aston Villa - Fenerbahçe",
-  "görsel indirilemedi: Hapoel - Beşiktaş  - Euroleague",
-  "görsel indirilemedi: Devlerin Savaşı",
-  "görsel indirilemedi: Sufle",
-  "görsel indirilemedi: Kalfalar Rusya'da",
-  "görsel indirilemedi: Davetli Misafir",
-  "görsel indirilemedi: Hadi Öldürsene Canikom",
-  "görsel indirilemedi: Park Of İstanbul Hayvanat Bahçesi",
-  "görsel indirilemedi: Kök ve Kanat Farklı Seslerden Ortak bir hikaye",
-  "görsel indirilemedi: 25 Years Old & Up Meetup Mixer",
-  "görsel indirilemedi: Lesli Karavil Stand-Up",
-  "görsel indirilemedi: Yetişkin Atölyesi: Doğaçlama Atölyesi - 3. Modül",
-  "görsel indirilemedi: Hayat Der Gülümserim",
-  "görsel indirilemedi: Sufle",
-  "görsel indirilemedi: Kalfalar Rusya'da",
-  "görsel indirilemedi: Devlerin Savaşı",
-  "görsel indirilemedi: Park Of İstanbul Hayvanat Bahçesi",
-  "02-avrupa-harita-1: içerik alana sığmadı"
+  "seyrek slayt: diger 3 kayıt (eşik 4); az adaylı gün tasarımı gerekiyor"
  ],
  "story": {
   "dosya": "story.jpg",
@@ -396,7 +371,7 @@
     1080,
     1920
    ],
-   "kb": 455,
+   "kb": 436,
    "sure_sn": 7.9
   },
   {
@@ -405,7 +380,7 @@
     1080,
     1920
    ],
-   "kb": 445
+   "kb": 444
   },
   {
    "dosya": "story-03-avrupa-harita-2.jpg",
@@ -413,7 +388,7 @@
     1080,
     1920
    ],
-   "kb": 374
+   "kb": 373
   },
   {
    "dosya": "story-04-anadolu-harita.jpg",
@@ -421,7 +396,7 @@
     1080,
     1920
    ],
-   "kb": 304
+   "kb": 305
   },
   {
    "dosya": "story-05-diger-ilceler.jpg",
@@ -429,7 +404,7 @@
     1080,
     1920
    ],
-   "kb": 150
+   "kb": 123
   }
  ],
  "story_video": {
@@ -438,7 +413,7 @@
    1080,
    1920
   ],
-  "kb": 455,
+  "kb": 436,
   "sure_sn": 7.9
  },
  "reel": {
@@ -447,9 +422,15 @@
    1080,
    1920
   ],
-  "kb": 687,
-  "sure_sn": 4.2,
-  "one_cikan": [],
+  "kb": 3613,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Yıldız Tilbe",
+   "Afife",
+   "Büyük Ev Ablukada",
+   "Fosforlu Cevriye",
+   "Kök ve Kanat"
+  ],
   "kapak": "reel-kapak.jpg",
   "muzik": "lofi-schmoop.mp3"
  }
