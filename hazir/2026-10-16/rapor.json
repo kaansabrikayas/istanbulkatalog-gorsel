@@ -1,0 +1,434 @@
+{
+ "tarih": "2026-10-16",
+ "gun": "Cuma 16 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 307,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Oscar",
+     "saat": "23:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Gökhan Tepe",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Gözlerimi Kaparım",
+     "saat": "23:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Saraydan Kız Kaçırma",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "İDSO Dostluk Konseri",
+     "saat": "23:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Aşkım Kapışmak",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Halil Sezai",
+     "saat": "20:00",
+     "mekan": "Swissotel",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Eda Baba",
+     "saat": "22:30",
+     "mekan": "Muaf Kadıköy",
+     "mekan_anahtar": "muaf-kadikoy"
+    },
+    {
+     "ad": "Efkan Şeşen",
+     "saat": "21:30",
+     "mekan": "Kadıköy Sahne",
+     "mekan_anahtar": "kadikoy-sahne"
+    },
+    {
+     "ad": "Baba · Haluk Bilginer",
+     "saat": "20:30",
+     "mekan": "İnal Aydınoğlu KM",
+     "mekan_anahtar": "inal-aydinoglu-kultur-merkezi"
+    },
+    {
+     "ad": "Mert Demir",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Yaşar",
+     "saat": "21:00",
+     "mekan": "JJ Atakent",
+     "mekan_anahtar": "jolly-joker-atakent-tema"
+    },
+    {
+     "ad": "Soner Arıca",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 3,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 407,
+      "y": 533,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 407,
+      "y": 568,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 391,
+      "y": 484,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 441,
+      "y": 492,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 419,
+      "y": 464,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 663,
+      "y": 917,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 627,
+      "y": 917,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 470,
+      "y": 514,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 496,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 6,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 430,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 347,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 1,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 12.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 327,
+   "etkinlik": 14,
+   "ilce": 7,
+   "satir": 124,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 297
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 422
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 374
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 321
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 303
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 427,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4700,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Halil Sezai",
+   "Gökhan Tepe",
+   "Saraydan Kız Kaçırma",
+   "İDSO Dostluk Konseri",
+   "Gözlerimi Kaparım"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
