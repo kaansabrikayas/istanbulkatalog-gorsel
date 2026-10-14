@@ -1,0 +1,475 @@
+{
+ "tarih": "2026-10-17",
+ "gun": "Cumartesi 17 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 352,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Hayat Der Gülümserim",
+     "saat": "20:00",
+     "mekan": "Üsküdar Kerem Yılmazer Sahnesi",
+     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+    },
+    {
+     "ad": "Afife - İstanbul DOB",
+     "saat": "15:00",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Çocuk Atölyesi: Bitki Kurutma Defteri (6-9 Yaş)",
+     "saat": "12:00",
+     "mekan": "Arter",
+     "mekan_anahtar": "arter"
+    },
+    {
+     "ad": "2000's Party / Daddy-E & Dear Darling",
+     "saat": "23:45",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Alpay Erdem Stand Up",
+     "saat": "20:30",
+     "mekan": "Rosemarine Comedy Club",
+     "mekan_anahtar": "rosemarine-comedy-club"
+    },
+    {
+     "ad": "Simge Akustik",
+     "saat": "21:00",
+     "mekan": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Elif Tunçludemir ile Gün Tabağı",
+     "saat": "19:00",
+     "mekan": "Corner Kadıköy",
+     "mekan_anahtar": "corner-kadikoy"
+    },
+    {
+     "ad": "Daha Da Beteri Var",
+     "saat": "20:30",
+     "mekan": "İstanbulimpro Sahne",
+     "mekan_anahtar": "istanbulimpro-sahne"
+    },
+    {
+     "ad": "Yeni Türkü",
+     "saat": "21:30",
+     "mekan": "Kadıköy Sahne",
+     "mekan_anahtar": "kadikoy-sahne"
+    },
+    {
+     "ad": "Şehrin İçinden, Şehrin Üstünden",
+     "saat": "13:15",
+     "mekan": "Borusan Contemporary",
+     "mekan_anahtar": "borusan-contemporary"
+    },
+    {
+     "ad": "Uzat, Kıvır, Birleştir: Geleceğin Hatıralarını Çağır",
+     "saat": "11:00",
+     "mekan": "Borusan Contemporary",
+     "mekan_anahtar": "borusan-contemporary"
+    },
+    {
+     "ad": "Bosphorus Boat Show Deniz Fuarı 1. Gün",
+     "saat": "11:00",
+     "mekan": "Ataköy Marina Açık Hava Sahnesi",
+     "mekan_anahtar": "atakoy-marina-acik-hava-sahnesi"
+    },
+    {
+     "ad": "Hara Öğrenme Programı (4–6 yaş) Kozalak Dostlar: Bahçeden Heykele",
+     "saat": "14:00",
+     "mekan": "Hara İstanbul",
+     "mekan_anahtar": "hara-istanbul"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 353,
+      "y": 521,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 382,
+      "y": 604,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 406,
+      "y": 491,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 658,
+      "y": 897,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 646,
+      "y": 930,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 611,
+      "y": 927,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 430,
+      "y": 467,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 531,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 6,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.79,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 426,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.79,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 417,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 6,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.57,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 520,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir",
+    "Üsküdar"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.57,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 349,
+   "etkinlik": 14,
+   "ilce": 8,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 335
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 486,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 451
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 374
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 370
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 440
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 328
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 486,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3640,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Afife - İstanbul DOB",
+   "Hayat Der Gülümserim",
+   "Simge Akustik",
+   "2000's Party / Daddy-E & Dear Darling",
+   "Alpay Erdem Stand Up"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
