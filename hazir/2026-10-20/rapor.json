@@ -1,0 +1,414 @@
+{
+ "tarih": "2026-10-20",
+ "gun": "Salı 20 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 301,
+   "sol": 5,
+   "sag": 3,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Cadı Kazanı",
+     "saat": "20:00",
+     "mekan": "Şener Şen Sahnesi",
+     "mekan_anahtar": "inal-aydinoglu-k-m-sener-sen-sahnesi"
+    },
+    {
+     "ad": "Babamın Kelimeleriyle",
+     "saat": "18:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "Trivia Night",
+     "saat": "20:00",
+     "mekan": "Sanat Performance",
+     "mekan_anahtar": "sanat-performance"
+    },
+    {
+     "ad": "Baba-Oğul Sun",
+     "saat": "23:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Burçe Tutku Tuncalı",
+     "saat": "20:30",
+     "mekan": "Yabangee Base",
+     "mekan_anahtar": "yabangee-base-art-stage-collective"
+    },
+    {
+     "ad": "Oradan Bakınca",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Mabel Matiz",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Greek Night",
+     "saat": "21:00",
+     "mekan": "Swissotel Chalet",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Baba - Haluk Bilginer",
+     "saat": "20:30",
+     "mekan": "CKM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Özgür Turhan",
+     "saat": "20:30",
+     "mekan": "Torium Sahne",
+     "mekan_anahtar": "torium-sahne"
+    },
+    {
+     "ad": "Eşyanın Tabiatı",
+     "saat": "20:30",
+     "mekan": "Kadıköy Eğitim",
+     "mekan_anahtar": "kadikoy-egitim-sahnesi"
+    },
+    {
+     "ad": "Fehim Paşa Konağı",
+     "saat": "20:30",
+     "mekan": "KKM Gazanfer Özcan",
+     "mekan_anahtar": "kkm-gonul-ulku-ve-gazanfer-ozcan-sahnesi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 6,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 346,
+      "y": 567,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 400,
+      "y": 589,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 402,
+      "y": 554,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 416,
+      "y": 522,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 405,
+      "y": 489,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 470,
+      "y": 514,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 430,
+      "y": 467,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 9,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 10,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 508,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 6,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.89,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 377,
+   "etkinlik": 3,
+   "mekan": 3,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.89,
+   "numara": [
+    7,
+    9
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 230,
+   "etkinlik": 3,
+   "mekan": 3,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 15.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 138,
+   "etkinlik": 5,
+   "ilce": 4,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: anadolu 3 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 288
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 403,
+   "sure_sn": 7.6
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 430
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 329
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 227
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 154
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 403,
+  "sure_sn": 7.6
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3940,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Mabel Matiz",
+   "Baba-Oğul Sun",
+   "Babamın Kelimeleriyle",
+   "Burçe Tutku Tuncalı",
+   "Cadı Kazanı"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
