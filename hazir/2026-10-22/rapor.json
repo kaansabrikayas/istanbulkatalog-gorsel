@@ -1,0 +1,435 @@
+{
+ "tarih": "2026-10-22",
+ "gun": "Perşembe 22 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 318,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Haramiler",
+     "saat": "20:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Kenan Doğulu",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Yoldan Çıkan Oyun",
+     "saat": "23:00",
+     "mekan": "Kongre Merkezi",
+     "mekan_anahtar": "istanbul-kongre-merkezi"
+    },
+    {
+     "ad": "Öylece Durur Zaman",
+     "saat": "20:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Sevgili Yelena",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Karanlıkta Kumpas",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Çok Güzel Hareketler 2",
+     "saat": "19:00",
+     "mekan": "BKM",
+     "mekan_anahtar": "besiktas-kultur-merkezi"
+    },
+    {
+     "ad": "Kocamın Karısı",
+     "saat": "20:30",
+     "mekan": "Bağlarbaşı KKM",
+     "mekan_anahtar": "baglarbasi-kongre-ve-kultur-merkezi-bogazici-salonu"
+    },
+    {
+     "ad": "Barış Balkır",
+     "saat": "20:30",
+     "mekan": "Corner Kadıköy",
+     "mekan_anahtar": "corner-kadikoy"
+    },
+    {
+     "ad": "O.M.G",
+     "saat": "20:30",
+     "mekan": "Duru Tiyatro",
+     "mekan_anahtar": "duru-tiyatro-watergarden-performans-merkezi"
+    },
+    {
+     "ad": "İlker Gümüşoluk",
+     "saat": "20:30",
+     "mekan": "Sahne Dragos",
+     "mekan_anahtar": "sahne-dragos"
+    },
+    {
+     "ad": "12 Numaralı Adam",
+     "saat": "21:00",
+     "mekan": "Vadi Açıkhava",
+     "mekan_anahtar": "paribu-vadi-acikhava"
+    },
+    {
+     "ad": "Ağzı Çiçekli Adam",
+     "saat": "20:30",
+     "mekan": "Evde Tiyatro",
+     "mekan_anahtar": "evde-tiyatro"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 1,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 368,
+      "y": 477,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 461,
+      "y": 477,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 400,
+      "y": 490,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 434,
+      "y": 498,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 418,
+      "y": 461,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 681,
+      "y": 645,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 617,
+      "y": 927,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 516,
+      "y": 500,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 524,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 6,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 409,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 323,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 1,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 22.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 190,
+   "etkinlik": 7,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 307
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 442,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 446
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 360
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 303
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 201
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 442,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4502,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Çok Güzel Hareketler 2",
+   "Kenan Doğulu",
+   "Karanlıkta Kumpas",
+   "Yoldan Çıkan Oyun",
+   "Haramiler"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
