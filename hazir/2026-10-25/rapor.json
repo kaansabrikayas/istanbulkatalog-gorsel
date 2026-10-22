@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-10-25",
+ "gun": "Pazar 25 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 316,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Saatleri Ayarlama",
+     "saat": "00:00",
+     "mekan": "Lütfi Kırdar",
+     "mekan_anahtar": "lutfi-kirdar-anadolu-auditorium"
+    },
+    {
+     "ad": "Rüzgar Ağacı",
+     "saat": "15:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "Pera Türk Müziği",
+     "saat": "15:30",
+     "mekan": "Pera Müzesi",
+     "mekan_anahtar": "pera-muzesi"
+    },
+    {
+     "ad": "Yılanların Öcü",
+     "saat": "13:00",
+     "mekan": "İstanbul Modern",
+     "mekan_anahtar": "istanbul-modern"
+    },
+    {
+     "ad": "Asiye Nasıl Kurtulur?",
+     "saat": "17:00",
+     "mekan": "İstanbul Modern",
+     "mekan_anahtar": "istanbul-modern"
+    },
+    {
+     "ad": "Süt Kardeşler",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "İsmail Nuri",
+     "saat": "19:00",
+     "mekan": "Corner Kadıköy",
+     "mekan_anahtar": "corner-kadikoy"
+    },
+    {
+     "ad": "Haftanın Elemanı",
+     "saat": "19:00",
+     "mekan": "İstanbulimpro",
+     "mekan_anahtar": "istanbulimpro-sahne"
+    },
+    {
+     "ad": "Aytaç Emet",
+     "saat": "19:00",
+     "mekan": "Rebel Bar",
+     "mekan_anahtar": "rebel-bar-kadikoy"
+    },
+    {
+     "ad": "Memleket Kumaşı",
+     "saat": "20:30",
+     "mekan": "Eğitim Sahnesi",
+     "mekan_anahtar": "kadikoy-egitim-sahnesi"
+    },
+    {
+     "ad": "4 Köşe Muhabbet",
+     "saat": "21:00",
+     "mekan": "Ataköy Marina",
+     "mekan_anahtar": "atakoy-marina-acik-hava-sahnesi"
+    },
+    {
+     "ad": "Ağustos Böceği",
+     "saat": "12:00",
+     "mekan": "Caddebostan KM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Küçük Prens",
+     "saat": "13:00",
+     "mekan": "Kozyatağı KM",
+     "mekan_anahtar": "kkm-gonul-ulku-ve-gazanfer-ozcan-sahnesi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 1,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 331,
+      "y": 591,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 361,
+      "y": 637,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 395,
+      "y": 637,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 418,
+      "y": 470,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 660,
+      "y": 899,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 643,
+      "y": 929,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 608,
+      "y": 927,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 517,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 8,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 410,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş",
+    "Sarıyer"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 349,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.57,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 537,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 2,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.57,
+   "numara": [
+    7,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 341,
+   "etkinlik": 14,
+   "ilce": 5,
+   "satir": 117,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 304
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 430,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 436
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 360
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 314
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 448
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 313
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 430,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4053,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Rüzgar Ağacı",
+   "Yılanların Öcü",
+   "Pera Türk Müziği",
+   "Asiye Nasıl Kurtulur?",
+   "Saatleri Ayarlama"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
