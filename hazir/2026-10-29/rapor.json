@@ -1,0 +1,435 @@
+{
+ "tarih": "2026-10-29",
+ "gun": "Perşembe 29 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 320,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Kahvaltıya Kalsana",
+     "saat": "20:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Ağrı Dağı Efsanesi",
+     "saat": "20:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Bence Katil Öldürdü",
+     "saat": "20:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "Afife",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Atatürk ve Sanat",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Savaş ve Barış",
+     "saat": "20:00",
+     "mekan": "İstanbul Kongre",
+     "mekan_anahtar": "istanbul-kongre-merkezi"
+    },
+    {
+     "ad": "Oscar",
+     "saat": "20:00",
+     "mekan": "Sadabad Sahnesi",
+     "mekan_anahtar": "kagithane-sadabad-sahnesi"
+    },
+    {
+     "ad": "Bora Öztoprak",
+     "saat": "21:00",
+     "mekan": "Swissotel",
+     "mekan_anahtar": "swissotel-the-bosphorus"
+    },
+    {
+     "ad": "Geçmişin Gölgesi",
+     "saat": "23:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Cumhuriyet Operası",
+     "saat": "20:00",
+     "mekan": "Hilltown Seyirlik",
+     "mekan_anahtar": "hilltown-seyirlik-sahne"
+    },
+    {
+     "ad": "Gece Yarısı Kütüphanesi",
+     "saat": "20:30",
+     "mekan": "Kartal Ada Sanat",
+     "mekan_anahtar": "kartal-ada-sanat-tiyatrosu"
+    },
+    {
+     "ad": "Sefiller",
+     "saat": "20:30",
+     "mekan": "MOİ Sahne",
+     "mekan_anahtar": "mall-of-istanbul-moi-sahne"
+    },
+    {
+     "ad": "Anna Karenina",
+     "saat": "19:30",
+     "mekan": "Kartal Ada Sanat",
+     "mekan_anahtar": "kartal-ada-sanat-tiyatrosu"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 382,
+      "y": 551,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 431,
+      "y": 556,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 409,
+      "y": 529,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 346,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 483,
+      "y": 479,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 470,
+      "y": 515,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 381,
+      "y": 483,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 449,
+      "y": 485,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 416,
+      "y": 480,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 502,
+   "etkinlik": 8,
+   "mekan": 5,
+   "cekirdekte": 6,
+   "ad_punto": 36,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.93,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 411,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.93,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 218,
+   "etkinlik": 2,
+   "mekan": 2,
+   "cekirdekte": 0,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 227,
+   "etkinlik": 9,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: anadolu 2 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 309
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 436,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 363
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 224
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 230
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 436,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4423,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Afife",
+   "Atatürk ve Sanat",
+   "Bora Öztoprak",
+   "Ağrı Dağı Efsanesi",
+   "Kahvaltıya Kalsana"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
