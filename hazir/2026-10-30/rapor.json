@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-10-30",
+ "gun": "Cuma 30 Ekim",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 316,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Kahvaltıya Kalsana",
+     "saat": "20:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Onur Özdemir",
+     "saat": "21:30",
+     "mekan": "Babylon",
+     "mekan_anahtar": "babylon"
+    },
+    {
+     "ad": "Ağrı Dağı Efsanesi",
+     "saat": "23:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Geçmişin Gölgesi",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "İDSO Cumhuriyet",
+     "saat": "20:00",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Amadeus",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Golnar Shahyar",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Goth Halloween Party",
+     "saat": "21:00",
+     "mekan": "The Wall Saloon",
+     "mekan_anahtar": "the-wall-saloon-performance"
+    },
+    {
+     "ad": "Bulutsuzluk Özlemi",
+     "saat": "21:30",
+     "mekan": "Kadıköy Sahne",
+     "mekan_anahtar": "kadikoy-sahne"
+    },
+    {
+     "ad": "Hande Yener",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Blue",
+     "saat": "21:00",
+     "mekan": "Volkswagen Arena",
+     "mekan_anahtar": "volkswagen-arena"
+    },
+    {
+     "ad": "Kibariye, Şenlendirici",
+     "saat": "21:00",
+     "mekan": "JJ Kıyı İstanbul",
+     "mekan_anahtar": "jolly-joker-kiyi-istanbul"
+    },
+    {
+     "ad": "Melek Mosso",
+     "saat": "21:00",
+     "mekan": "JJ Kartal",
+     "mekan_anahtar": "jolly-joker-kartal-istmarina"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 2,
+      "cizgi": 0,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 3,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 4,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 7,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 8,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 2,
+      "x": 366,
+      "y": 385,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 407,
+      "y": 553,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 382,
+      "y": 480,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 448,
+      "y": 483,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 414,
+      "y": 490,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 650,
+      "y": 917,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 615,
+      "y": 922,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 584,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 423,
+      "y": 456,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 524,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 6,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.79,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 422,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş",
+    "Sarıyer"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.79,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 304,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 7,
+   "ad_punto": 30,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.92,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 272,
+   "etkinlik": 5,
+   "mekan": 5,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.92,
+   "numara": [
+    9,
+    13
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 318,
+   "etkinlik": 14,
+   "ilce": 9,
+   "satir": 124,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 304
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 434,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 445
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 368
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 288
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 264
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 303
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 434,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4212,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Bulutsuzluk Özlemi",
+   "İDSO Cumhuriyet",
+   "Golnar Shahyar",
+   "Amadeus",
+   "Ağrı Dağı Efsanesi"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
