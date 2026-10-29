@@ -1,0 +1,473 @@
+{
+ "tarih": "2026-11-01",
+ "gun": "Pazar 1 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 304,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Tekfen Filarmoni",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Tango After Dark",
+     "saat": "21:00",
+     "mekan": "Lütfi Kırdar",
+     "mekan_anahtar": "lutfi-kirdar-kongre-ve-sergi-sarayi"
+    },
+    {
+     "ad": "Kamerasız & FitiSound",
+     "saat": "18:00",
+     "mekan": "Arter",
+     "mekan_anahtar": "arter"
+    },
+    {
+     "ad": "Park",
+     "saat": "14:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "Jodok Cello",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Sehabe & Yeis Sensura",
+     "saat": "22:00",
+     "mekan": "IF Beşiktaş",
+     "mekan_anahtar": "if-performance-hall-besiktas"
+    },
+    {
+     "ad": "Manifest Quiz Night",
+     "saat": "19:00",
+     "mekan": "Corner Kadıköy",
+     "mekan_anahtar": "corner-kadikoy"
+    },
+    {
+     "ad": "Harika Şeyler Listesi",
+     "saat": "19:00",
+     "mekan": "Alan Kadıköy",
+     "mekan_anahtar": "alan-kadikoy"
+    },
+    {
+     "ad": "Mummenschanz",
+     "saat": "15:00",
+     "mekan": "Paribu Art",
+     "mekan_anahtar": "paribu-art-ana-sahne"
+    },
+    {
+     "ad": "Çakal",
+     "saat": "20:00",
+     "mekan": "Bostancı GM",
+     "mekan_anahtar": "bostanci-gosteri-merkezi"
+    },
+    {
+     "ad": "Anlatanadam",
+     "saat": "18:00",
+     "mekan": "Duru Tiyatro",
+     "mekan_anahtar": "duru-tiyatro-watergarden-performans-merkezi"
+    },
+    {
+     "ad": "Oliver Twist",
+     "saat": "13:00",
+     "mekan": "CKM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-a-salonu"
+    },
+    {
+     "ad": "Fareler ve İnsanlar",
+     "saat": "23:00",
+     "mekan": "MOİ Sahne",
+     "mekan_anahtar": "mall-of-istanbul-moi-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 353,
+      "y": 521,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 405,
+      "y": 564,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 411,
+      "y": 529,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 412,
+      "y": 483,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 428,
+      "y": 451,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 707,
+      "y": 799,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 699,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 617,
+      "y": 927,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 520,
+      "y": 497,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 502,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.8,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 389,
+   "etkinlik": 4,
+   "mekan": 4,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.8,
+   "numara": [
+    7,
+    10
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 291,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 7,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 1.0,
+   "numara": [
+    1,
+    7
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 296,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 6,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 1.0,
+   "numara": [
+    8,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 214,
+   "etkinlik": 9,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 297
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 426,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 426
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 341
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 276
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 282
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 216
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 426,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3216,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Kamerasız & FitiSound",
+   "Mummenschanz",
+   "Tekfen Filarmoni",
+   "Park",
+   "Sehabe & Yeis Sensura"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
