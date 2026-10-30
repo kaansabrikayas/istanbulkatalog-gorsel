@@ -1,0 +1,246 @@
+{
+ "tarih": "2026-11-02",
+ "gun": "Pazartesi 2 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 198,
+   "sol": 1,
+   "sag": 1,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Ayta Sözeri",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Gömercin Kuşları",
+     "saat": "20:30",
+     "mekan": "Alan Kadıköy",
+     "mekan_anahtar": "alan-kadikoy"
+    },
+    {
+     "ad": "Tuğba Karaca",
+     "saat": "20:30",
+     "mekan": "Barış Manço KM",
+     "mekan_anahtar": "avcilar-baris-manco-kultur-merkezi"
+    },
+    {
+     "ad": "Hırçın Kız",
+     "saat": "20:30",
+     "mekan": "Kadıköy Eğitim",
+     "mekan_anahtar": "kadikoy-egitim-sahnesi"
+    },
+    {
+     "ad": "Savaş ve Barış",
+     "saat": "18:40",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    },
+    {
+     "ad": "Piraye'ye Mektuplar",
+     "saat": "16:40",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 1,
+      "cizgi": 0,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 1,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 1,
+      "x": 416,
+      "y": 479,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 703,
+      "y": 800,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 3,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 4,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 5,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 6,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 470,
+   "etkinlik": 1,
+   "mekan": 1,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false
+  },
+  {
+   "dosya": "03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 324,
+   "etkinlik": 2,
+   "mekan": 2,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.5,
+   "uzak": false
+  },
+  {
+   "dosya": "04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 96,
+   "etkinlik": 3,
+   "ilce": 2,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: kapak_merkez 2 kayıt (eşik 5); az adaylı gün tasarımı gerekiyor",
+  "seyrek slayt: avrupa 1 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor",
+  "seyrek slayt: anadolu 2 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor",
+  "seyrek slayt: diger 3 kayıt (eşik 4); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 209
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 281,
+   "sure_sn": 6.0
+  },
+  {
+   "dosya": "story-02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 396
+  },
+  {
+   "dosya": "story-03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 291
+  },
+  {
+   "dosya": "story-04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 124
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 281,
+  "sure_sn": 6.0
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 1523,
+  "sure_sn": 8.0,
+  "one_cikan": [
+   "Ayta Sözeri",
+   "Gömercin Kuşları"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
