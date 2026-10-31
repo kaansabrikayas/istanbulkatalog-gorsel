@@ -1,0 +1,375 @@
+{
+ "tarih": "2026-11-03",
+ "gun": "Salı 3 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 288,
+   "sol": 5,
+   "sag": 3,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Ahududu",
+     "saat": "23:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Emir Can İğrek",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Callback",
+     "saat": "18:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "Telli Davul",
+     "saat": "21:00",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Selman Ada - İDOB",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Harika Şeyler Listesi",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Satıcının Ölümü",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Bir Delinin Hatıra",
+     "saat": "20:30",
+     "mekan": "Barış Manço KM",
+     "mekan_anahtar": "baris-manco-kultur-merkezi"
+    },
+    {
+     "ad": "Sesler",
+     "saat": "20:30",
+     "mekan": "Caddebostan KM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Nexus Trio",
+     "saat": "20:30",
+     "mekan": "ENKA Oditoryumu",
+     "mekan_anahtar": "enka-oditoryumu"
+    },
+    {
+     "ad": "Özgür Turhan",
+     "saat": "20:30",
+     "mekan": "MOİ Sahne",
+     "mekan_anahtar": "mall-of-istanbul-moi-sahne"
+    },
+    {
+     "ad": "Seyfi Bey",
+     "saat": "23:30",
+     "mekan": "DasDas",
+     "mekan_anahtar": "dasdas"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 6,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 404,
+      "y": 561,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 412,
+      "y": 527,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 421,
+      "y": 476,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 435,
+      "y": 282,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 637,
+      "y": 932,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 602,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 567,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 9,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 10,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 355,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 8,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sol",
+   "pencere_km": 15.0,
+   "uzak": true
+  },
+  {
+   "dosya": "03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 244,
+   "etkinlik": 4,
+   "mekan": 4,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sol",
+   "pencere_km": 22.0,
+   "uzak": true
+  },
+  {
+   "dosya": "04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 186,
+   "etkinlik": 7,
+   "ilce": 6,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "seyrek slayt: anadolu 4 kayıt (eşik 6); az adaylı gün tasarımı gerekiyor"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 279
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 394,
+   "sure_sn": 7.6
+  },
+  {
+   "dosya": "story-02-avrupa-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 329
+  },
+  {
+   "dosya": "story-03-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 237
+  },
+  {
+   "dosya": "story-04-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 195
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 394,
+  "sure_sn": 7.6
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3853,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Selman Ada - İDOB",
+   "Emir Can İğrek",
+   "Satıcının Ölümü",
+   "Ahududu",
+   "Harika Şeyler Listesi"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
