@@ -1,0 +1,475 @@
+{
+ "tarih": "2026-11-06",
+ "gun": "Cuma 6 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 292,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Renaud Garcia-Fons",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Gölge",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Deliriyum",
+     "saat": "23:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "No.1",
+     "saat": "21:30",
+     "mekan": "Kastel",
+     "mekan_anahtar": "kastel"
+    },
+    {
+     "ad": "İDSO",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "MIX Festival 2026",
+     "saat": "17:00",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Kara Kız",
+     "saat": "20:30",
+     "mekan": "BKM",
+     "mekan_anahtar": "besiktas-kultur-merkezi"
+    },
+    {
+     "ad": "Soner Sarıkabadayı",
+     "saat": "21:30",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Kesmeşeker",
+     "saat": "22:00",
+     "mekan": "The Wall Saloon",
+     "mekan_anahtar": "the-wall-saloon-performance"
+    },
+    {
+     "ad": "Gökhan Türkmen",
+     "saat": "21:00",
+     "mekan": "JJ Arena Ataşehir",
+     "mekan_anahtar": "jj-arena-atasehir"
+    },
+    {
+     "ad": "Levent Yüksel",
+     "saat": "21:00",
+     "mekan": "JJ Kartal",
+     "mekan_anahtar": "jolly-joker-kartal-istmarina"
+    },
+    {
+     "ad": "Melek Mosso",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Dedublüman",
+     "saat": "21:00",
+     "mekan": "JJ Kıyı İstanbul",
+     "mekan_anahtar": "jolly-joker-kiyi-istanbul"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 1,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 7,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 8,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 342,
+      "y": 568,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 407,
+      "y": 568,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 533,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 412,
+      "y": 489,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 425,
+      "y": 456,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 618,
+      "y": 903,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 618,
+      "y": 939,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 573,
+      "y": 310,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 516,
+      "y": 500,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 505,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 3,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.86,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 404,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.86,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 367,
+   "etkinlik": 5,
+   "mekan": 5,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.6,
+   "numara": [
+    1,
+    5
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 529,
+   "etkinlik": 5,
+   "mekan": 5,
+   "cekirdekte": 2,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir",
+    "Üsküdar"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.6,
+   "numara": [
+    6,
+    10
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 236,
+   "etkinlik": 10,
+   "ilce": 7,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 287
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 413,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 355
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 326
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 440
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 235
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 413,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3154,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "MIX Festival 2026",
+   "Soner Sarıkabadayı",
+   "İDSO",
+   "Deliriyum",
+   "No.1"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
