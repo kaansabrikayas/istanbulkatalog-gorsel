@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-11-08",
+ "gun": "Pazar 8 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 318,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Pentagram: Electric",
+     "saat": "21:00",
+     "mekan": "Harbiye Açıkhava",
+     "mekan_anahtar": "harbiye-cemil-topuzlu-acikhava-tiyatrosu"
+    },
+    {
+     "ad": "Merhaba Çocuk",
+     "saat": "15:00",
+     "mekan": "İKM",
+     "mekan_anahtar": "istanbul-kongre-merkezi"
+    },
+    {
+     "ad": "Prens Ahmed, BaBa ZuLa",
+     "saat": "18:00",
+     "mekan": "Arter",
+     "mekan_anahtar": "arter"
+    },
+    {
+     "ad": "Ketçaplı Spagetti",
+     "saat": "13:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Benim Küçük Yıldızım",
+     "saat": "13:00",
+     "mekan": "Sadabad Sahnesi",
+     "mekan_anahtar": "kagithane-sadabad-sahnesi"
+    },
+    {
+     "ad": "Gömercin Kuşları",
+     "saat": "18:00",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "CRR Türk Müziği",
+     "saat": "20:00",
+     "mekan": "CRR",
+     "mekan_anahtar": "crr-konser-salonu"
+    },
+    {
+     "ad": "Zemin Testi",
+     "saat": "18:00",
+     "mekan": "Eylül Sahnesi",
+     "mekan_anahtar": "kadikoy-eylul-sahnesi"
+    },
+    {
+     "ad": "2012",
+     "saat": "19:00",
+     "mekan": "Barış Manço KM",
+     "mekan_anahtar": "baris-manco-kultur-merkezi"
+    },
+    {
+     "ad": "Gözlerimi Kaparım",
+     "saat": "20:30",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    },
+    {
+     "ad": "Le Trio Joubran",
+     "saat": "21:00",
+     "mekan": "Haliç Kongre",
+     "mekan_anahtar": "halic-kongre-merkezi"
+    },
+    {
+     "ad": "Mahşer-i Cümbüş",
+     "saat": "20:30",
+     "mekan": "Beylikdüzü AKSM",
+     "mekan_anahtar": "beylikduzu-ataturk-kultur-ve-sanat-merkezi-baksm"
+    },
+    {
+     "ad": "Seyfi Bey",
+     "saat": "19:00",
+     "mekan": "Caddebostan KM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 1,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 3,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 7,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 8,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 353,
+      "y": 521,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 380,
+      "y": 478,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 460,
+      "y": 491,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 410,
+      "y": 496,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 434,
+      "y": 467,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 658,
+      "y": 893,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 637,
+      "y": 932,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 585,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 403,
+      "y": 452,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 483,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beyoğlu"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 462,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 3,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş",
+    "Sarıyer"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    7,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 286,
+   "etkinlik": 7,
+   "mekan": 5,
+   "cekirdekte": 6,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.91,
+   "numara": [
+    1,
+    7
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 261,
+   "etkinlik": 4,
+   "mekan": 4,
+   "cekirdekte": 3,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sag",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.91,
+   "numara": [
+    8,
+    11
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 249,
+   "etkinlik": 10,
+   "ilce": 6,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 305
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 430,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 415
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 398
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 275
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 256
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 245
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 430,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4725,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Pentagram: Electric",
+   "Prens Ahmed, BaBa ZuLa",
+   "Merhaba Çocuk",
+   "CRR Türk Müziği",
+   "Benim Küçük Yıldızım"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "neo-soul-guitar.mp3"
+ }
+}
