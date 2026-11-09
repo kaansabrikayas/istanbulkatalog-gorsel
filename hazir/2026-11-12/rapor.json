@@ -1,0 +1,432 @@
+{
+ "tarih": "2026-11-12",
+ "gun": "Perşembe 12 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 313,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Tartuffe",
+     "saat": "23:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Haramiler",
+     "saat": "20:00",
+     "mekan": "Sadabad Sahnesi",
+     "mekan_anahtar": "kagithane-sadabad-sahnesi"
+    },
+    {
+     "ad": "Yoldan Çıkan Oyun",
+     "saat": "20:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Atatürk'ün Ezgileri",
+     "saat": "20:00",
+     "mekan": "Fatih KSM",
+     "mekan_anahtar": "fatih-kultur-sanat-merkezi"
+    },
+    {
+     "ad": "Romeo ve Juliet",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Yelena Sergeyevna",
+     "saat": "20:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "KÖFN",
+     "saat": "21:00",
+     "mekan": "IF Beşiktaş",
+     "mekan_anahtar": "if-performance-hall-besiktas"
+    },
+    {
+     "ad": "Stella & The Longos",
+     "saat": "21:30",
+     "mekan": "Komünite",
+     "mekan_anahtar": "komunite"
+    },
+    {
+     "ad": "Kwoon",
+     "saat": "21:30",
+     "mekan": "Paribu Art",
+     "mekan_anahtar": "paribu-art-yan-sahne"
+    },
+    {
+     "ad": "Berfu & Eser Yenenler",
+     "saat": "20:30",
+     "mekan": "HOP Sahne Bakırköy",
+     "mekan_anahtar": "hop-sahne-bakirkoy"
+    },
+    {
+     "ad": "Güldür Güldür Show",
+     "saat": "21:00",
+     "mekan": "Bostancı Gösteri",
+     "mekan_anahtar": "bostanci-gosteri-merkezi"
+    },
+    {
+     "ad": "Sufle & Deniz Tekin",
+     "saat": "20:00",
+     "mekan": "SÜ Gösteri Merkezi",
+     "mekan_anahtar": "sabanci-universitesi-gosteri-merkezi"
+    },
+    {
+     "ad": "Tartuffe",
+     "saat": "20:30",
+     "mekan": "Sancaktepe Sahnesi",
+     "mekan_anahtar": "sancaktepe-sahnesi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 5,
+      "cizgi": 0,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 1,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 2,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 3,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 5,
+      "x": 404,
+      "y": 561,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 412,
+      "y": 527,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 363,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 467,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 397,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 700,
+      "y": 921,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 697,
+      "y": 887,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 520,
+      "y": 497,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 433,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 529,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 7,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.93,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 406,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.93,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 304,
+   "etkinlik": 7,
+   "mekan": 7,
+   "cekirdekte": 1,
+   "ad_punto": 34,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 22.0,
+   "uzak": true
+  },
+  {
+   "dosya": "05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 331,
+   "etkinlik": 14,
+   "ilce": 8,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 304
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 446,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 449
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 362
+  },
+  {
+   "dosya": "story-04-anadolu-harita.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 292
+  },
+  {
+   "dosya": "story-05-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 313
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 446,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3443,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Romeo ve Juliet",
+   "KÖFN",
+   "Yoldan Çıkan Oyun",
+   "Atatürk'ün Ezgileri",
+   "Tartuffe"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
