@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-11-13",
+ "gun": "Cuma 13 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 310,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Tartuffe",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Yoldan Çıkan Oyun",
+     "saat": "23:00",
+     "mekan": "Ümraniye Sahnesi",
+     "mekan_anahtar": "umraniye-sahnesi"
+    },
+    {
+     "ad": "Pinokyo.exe",
+     "saat": "20:00",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Bir Picasso",
+     "saat": "18:00",
+     "mekan": "Mecidiyeköy Stüdyo",
+     "mekan_anahtar": "mecidiyekoy-studyo-sahne-80"
+    },
+    {
+     "ad": "İDSO Atatürk'ü Anma",
+     "saat": "20:00",
+     "mekan": "AKM Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Yelena Sergeyevna",
+     "saat": "20:00",
+     "mekan": "Musahipzade Celal",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Haramiler",
+     "saat": "23:00",
+     "mekan": "Sadabad Sahnesi",
+     "mekan_anahtar": "kagithane-sadabad-sahnesi"
+    },
+    {
+     "ad": "Seksendört",
+     "saat": "22:00",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Bu Festival Bizim",
+     "saat": "17:00",
+     "mekan": "Paribu Art",
+     "mekan_anahtar": "paribu-art-ana-sahne"
+    },
+    {
+     "ad": "Altın Gün",
+     "saat": "20:00",
+     "mekan": "Volkswagen Arena",
+     "mekan_anahtar": "volkswagen-arena"
+    },
+    {
+     "ad": "Ali Poyrazoğlu",
+     "saat": "20:30",
+     "mekan": "Caddebostan KM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Aşkın Nur Yengi",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Simge",
+     "saat": "21:00",
+     "mekan": "JJ Atakent",
+     "mekan_anahtar": "jolly-joker-atakent-tema"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 5,
+      "cizgi": 0,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 6,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 7,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 8,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 5,
+      "x": 404,
+      "y": 576,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 398,
+      "y": 519,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 421,
+      "y": 546,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 363,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 467,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 699,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 618,
+      "y": 920,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 397,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 433,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 506,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 5,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Sarıyer"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.64,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 392,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 0,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.64,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 315,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 7,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy"
+   ],
+   "taraf": "sol",
+   "pencere_km": 9.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.92,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 278,
+   "etkinlik": 5,
+   "mekan": 5,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 9.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.92,
+   "numara": [
+    9,
+    13
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 279,
+   "etkinlik": 12,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 301
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 442,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 427
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 346
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 297
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 271
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 270
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 442,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3534,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "İDSO Atatürk'ü Anma",
+   "Yoldan Çıkan Oyun",
+   "Pinokyo.exe",
+   "Tartuffe",
+   "Seksendört"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
