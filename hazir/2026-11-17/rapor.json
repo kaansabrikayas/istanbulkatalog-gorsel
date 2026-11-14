@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-11-17",
+ "gun": "Salı 17 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 298,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Ufak Tefek Cinayetler",
+     "saat": "20:30",
+     "mekan": "Trump Sahne",
+     "mekan_anahtar": "trump-sahne"
+    },
+    {
+     "ad": "Cadı Kazanı",
+     "saat": "20:00",
+     "mekan": "Enver Ören KM",
+     "mekan_anahtar": "ibb-yenibosna-dr-enver-oren-kultur-merkezi"
+    },
+    {
+     "ad": "Puşkin Akşamı",
+     "saat": "20:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Didem Özek",
+     "saat": "20:30",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Anna Karenina",
+     "saat": "21:00",
+     "mekan": "AKM",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Amadeus",
+     "saat": "20:30",
+     "mekan": "Zorlu PSM",
+     "mekan_anahtar": "zorlu-psm-turkcell-platinum-sahnesi"
+    },
+    {
+     "ad": "Huzur",
+     "saat": "20:30",
+     "mekan": "Kolektif",
+     "mekan_anahtar": "kolektif-performans"
+    },
+    {
+     "ad": "Allame & Şehinşah",
+     "saat": "21:30",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Sevgi Bahçesi",
+     "saat": "13:00",
+     "mekan": "Barış Manço KM",
+     "mekan_anahtar": "baris-manco-kultur-merkezi"
+    },
+    {
+     "ad": "Enis Arıkan Boş Ders",
+     "saat": "21:00",
+     "mekan": "The Cube",
+     "mekan_anahtar": "the-cube"
+    },
+    {
+     "ad": "Uzi",
+     "saat": "21:00",
+     "mekan": "Bostancı Gösteri M.",
+     "mekan_anahtar": "bostanci-gosteri-merkezi"
+    },
+    {
+     "ad": "Kel Diva",
+     "saat": "20:30",
+     "mekan": "CKM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Anlatanadam",
+     "saat": "20:30",
+     "mekan": "Duru Tiyatro",
+     "mekan_anahtar": "duru-tiyatro-watergarden-performans-merkezi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 5,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 7,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 533,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 407,
+      "y": 568,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 415,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 434,
+      "y": 309,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 688,
+      "y": 681,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 642,
+      "y": 935,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 613,
+      "y": 917,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 584,
+      "y": 313,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 344,
+   "etkinlik": 7,
+   "mekan": 6,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Fatih"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.85,
+   "numara": [
+    1,
+    7
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 291,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 3,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.85,
+   "numara": [
+    8,
+    13
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 305,
+   "etkinlik": 8,
+   "mekan": 7,
+   "cekirdekte": 8,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 1.0,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 270,
+   "etkinlik": 5,
+   "mekan": 4,
+   "cekirdekte": 4,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 8.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 1.0,
+   "numara": [
+    9,
+    13
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 205,
+   "etkinlik": 8,
+   "ilce": 4,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 290
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 421,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 319
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 278
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 285
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 263
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 208
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 421,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3882,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Amadeus",
+   "Puşkin Akşamı",
+   "Anna Karenina",
+   "Allame & Şehinşah",
+   "Ufak Tefek Cinayetler"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
