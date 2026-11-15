@@ -1,0 +1,475 @@
+{
+ "tarih": "2026-11-18",
+ "gun": "Çarşamba 18 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 306,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Gök Kubbe",
+     "saat": "23:00",
+     "mekan": "Sadabad Sahnesi",
+     "mekan_anahtar": "kagithane-sadabad-sahnesi"
+    },
+    {
+     "ad": "Öylece Durur Zaman",
+     "saat": "23:00",
+     "mekan": "Kerem Yılmazer",
+     "mekan_anahtar": "uskudar-kerem-yilmazer-sahnesi"
+    },
+    {
+     "ad": "Bir Opera Akşamı",
+     "saat": "20:00",
+     "mekan": "AKM Tiyatro Salonu",
+     "mekan_anahtar": "akm-tiyatro-salonu"
+    },
+    {
+     "ad": "Ufuk Beydemir",
+     "saat": "20:30",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Anna Karenina",
+     "saat": "21:00",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Güldür Güldür Show",
+     "saat": "20:00",
+     "mekan": "BKM",
+     "mekan_anahtar": "besiktas-kultur-merkezi"
+    },
+    {
+     "ad": "Tekir",
+     "saat": "21:30",
+     "mekan": "Dorock XL",
+     "mekan_anahtar": "dorock-xl"
+    },
+    {
+     "ad": "Nağmekâr",
+     "saat": "19:30",
+     "mekan": "Türkiye Turing",
+     "mekan_anahtar": "turkiye-turing-ve-otomobil-kurumu"
+    },
+    {
+     "ad": "Elizabeth Costello",
+     "saat": "20:30",
+     "mekan": "Paribu Art",
+     "mekan_anahtar": "paribu-art-ana-sahne"
+    },
+    {
+     "ad": "Bengü",
+     "saat": "21:00",
+     "mekan": "JJ Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Baba - Haluk Bilginer",
+     "saat": "20:30",
+     "mekan": "CKM",
+     "mekan_anahtar": "caddebostan-kultur-merkezi-buyuk-salon"
+    },
+    {
+     "ad": "Gözlerimi Kaparım",
+     "saat": "20:30",
+     "mekan": "Bakırköy Butik",
+     "mekan_anahtar": "bakirkoy-butik-sahne"
+    },
+    {
+     "ad": "Orhan Ölmez",
+     "saat": "20:00",
+     "mekan": "Ali Emiri KM",
+     "mekan_anahtar": "ali-emiri-efendi-kultur-merkezi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 1,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 3,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 4,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 7,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 533,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 407,
+      "y": 568,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 398,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 432,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 706,
+      "y": 774,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 699,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 618,
+      "y": 920,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 516,
+      "y": 500,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 522,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 5,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Fatih"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 415,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 255,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 6,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.92,
+   "numara": [
+    1,
+    6
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 268,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.92,
+   "numara": [
+    7,
+    12
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 191,
+   "etkinlik": 7,
+   "ilce": 5,
+   "satir": 128,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 297
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 420,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 446
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 366
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 254
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 266
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 203
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 420,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 3687,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Bir Opera Akşamı",
+   "Güldür Güldür Show",
+   "Anna Karenina",
+   "Öylece Durur Zaman",
+   "Ufuk Beydemir"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
