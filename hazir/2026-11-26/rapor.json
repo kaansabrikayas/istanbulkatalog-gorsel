@@ -1,0 +1,477 @@
+{
+ "tarih": "2026-11-26",
+ "gun": "Perşembe 26 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 347,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Babylon Glocals: Kanto Records Selects",
+     "saat": "20:30",
+     "mekan": "Babylon",
+     "mekan_anahtar": "babylon"
+    },
+    {
+     "ad": "Cadı Kazanı",
+     "saat": "23:00",
+     "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Edusa - İstanbul DOB",
+     "saat": "20:00",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Modundayız Sunar: Cardinals",
+     "saat": "20:30",
+     "mekan": "Blind İstanbul",
+     "mekan_anahtar": "blind-istanbul"
+    },
+    {
+     "ad": "Stand Up Gecesi",
+     "saat": "19:00",
+     "mekan": "Efsahne Beyoğlu",
+     "mekan_anahtar": "efsahne-beyoglu"
+    },
+    {
+     "ad": "Açık Ateş: Karadan | Denizden",
+     "saat": "20:00",
+     "mekan": "Madera İstanbul",
+     "mekan_anahtar": "madera-istanbul"
+    },
+    {
+     "ad": "Dokulu Tablo Workshop",
+     "saat": "17:30",
+     "mekan": "Arche Art Studio & Coffee",
+     "mekan_anahtar": "arche-art-studio-coffee"
+    },
+    {
+     "ad": "Mumluk Boyama - Mum Yapımı Workshop",
+     "saat": "17:00",
+     "mekan": "Arche Art Studio & Coffee",
+     "mekan_anahtar": "arche-art-studio-coffee"
+    },
+    {
+     "ad": "Akustikhane: Buluşmalar",
+     "saat": "21:00",
+     "mekan": "Paribu Art - Ana Sahne",
+     "mekan_anahtar": "paribu-art-ana-sahne"
+    },
+    {
+     "ad": "Dj Serkan Öz - Geçmişten Günümüze 90lar 2000ler Türkçe Pop",
+     "saat": "21:00",
+     "mekan": "Hayal Kahvesi Emaar",
+     "mekan_anahtar": "hayal-kahvesi-emaar"
+    },
+    {
+     "ad": "Ayda1 Detoks",
+     "saat": "21:00",
+     "mekan": "Jolly Joker Vadistanbul",
+     "mekan_anahtar": "jolly-joker-vadistanbul"
+    },
+    {
+     "ad": "Emaar SkyView ve SkyWalk",
+     "saat": "21:15",
+     "mekan": "Emaar SkyView",
+     "mekan_anahtar": "emaar-skyview"
+    },
+    {
+     "ad": "Teoman",
+     "saat": "20:00",
+     "mekan": "Yahya Kemal Beyatlı Gösteri Merkezi",
+     "mekan_anahtar": "yahya-kemal-beyatli-gosteri-merkezi"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 4,
+      "cizgi": 0,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 1,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 2,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 3,
+      "cizgi": 3,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 5,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 6,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 7,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 8,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 4,
+      "x": 326,
+      "y": 608,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 366,
+      "y": 385,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 367,
+      "y": 573,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 3,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 411,
+      "y": 490,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 699,
+      "y": 909,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 586,
+      "y": 653,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 620,
+      "y": 653,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 426,
+      "y": 459,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 534,
+   "etkinlik": 8,
+   "mekan": 8,
+   "cekirdekte": 4,
+   "ad_punto": 28,
+   "sigdi": false,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli",
+    "Fatih"
+   ],
+   "taraf": "sol",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 436,
+   "etkinlik": 6,
+   "mekan": 6,
+   "cekirdekte": 6,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sag",
+   "pencere_km": 3.5,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 379,
+   "etkinlik": 5,
+   "mekan": 3,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.6,
+   "numara": [
+    1,
+    5
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 539,
+   "etkinlik": 5,
+   "mekan": 5,
+   "cekirdekte": 1,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.4,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.6,
+   "numara": [
+    6,
+    10
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 354,
+   "etkinlik": 14,
+   "ilce": 9,
+   "satir": 125,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [
+  "02-avrupa-harita-1: içerik alana sığmadı"
+ ],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 330
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 478,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 455
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 381
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 341
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 452
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 336
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 478,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4754,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Babylon Glocals: Kanto Records Selects",
+   "Edusa - İstanbul DOB",
+   "Cadı Kazanı",
+   "Modundayız Sunar: Cardinals",
+   "Açık Ateş: Karadan | Denizden"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "lofi-schmoop.mp3"
+ }
+}
