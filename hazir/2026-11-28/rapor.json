@@ -1,0 +1,475 @@
+{
+ "tarih": "2026-11-28",
+ "gun": "Cumartesi 28 Kasım",
+ "stil": "simdiki",
+ "slaytlar": [
+  {
+   "dosya": "01-kapak.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 343,
+   "sol": 5,
+   "sag": 4,
+   "dis": 4,
+   "atilan": 0,
+   "sira": [
+    {
+     "ad": "Babylon Picks: Al-Qasar feat. BaBa ZuLa",
+     "saat": "21:00",
+     "mekan": "Babylon",
+     "mekan_anahtar": "babylon"
+    },
+    {
+     "ad": "Edusa - İstanbul DOB",
+     "saat": "15:00",
+     "mekan": "AKM Türk Telekom Opera Salonu",
+     "mekan_anahtar": "akm-turk-telekom-opera-salonu"
+    },
+    {
+     "ad": "Çocuk Atölyesi: Topraktan Gökyüzüne: Bizim Dijital Atlasımız (7-11 Yaş)",
+     "saat": "12:00",
+     "mekan": "Arter",
+     "mekan_anahtar": "arter"
+    },
+    {
+     "ad": "Devrimciler Asla Ölmez",
+     "saat": "17:00",
+     "mekan": "İstanbul Modern",
+     "mekan_anahtar": "istanbul-modern"
+    },
+    {
+     "ad": "Kongo Çocuğu",
+     "saat": "13:00",
+     "mekan": "İstanbul Modern",
+     "mekan_anahtar": "istanbul-modern"
+    },
+    {
+     "ad": "Xewna Şeveke Havînê",
+     "saat": "20:00",
+     "mekan": "Müze Gazhane Prof. Dr. Sevda Şener Sahnesi",
+     "mekan_anahtar": "muze-gazhane-prof-dr-sevda-sener-sahnesi"
+    },
+    {
+     "ad": "Cadı Kazanı",
+     "saat": "18:00",
+     "mekan": "Üsküdar Musahipzade Celal Sahnesi",
+     "mekan_anahtar": "uskudar-musahipzade-celal-sahnesi"
+    },
+    {
+     "ad": "Daha Da Beteri Var",
+     "saat": "20:30",
+     "mekan": "İstanbulimpro Sahne",
+     "mekan_anahtar": "istanbulimpro-sahne"
+    },
+    {
+     "ad": "Karışık Kaset 90lar 2000ler Türkçe Pop Parti",
+     "saat": "21:30",
+     "mekan": "Kadıköy Sahne",
+     "mekan_anahtar": "kadikoy-sahne"
+    },
+    {
+     "ad": "Şehrin İçinden, Şehrin Üstünden (6-8 Yaş)",
+     "saat": "13:15",
+     "mekan": "Borusan Contemporary",
+     "mekan_anahtar": "borusan-contemporary"
+    },
+    {
+     "ad": "Beykoz Kundura’da Bir Akşamüstü Konser Serisi - Sinafi Trio",
+     "saat": "21:00",
+     "mekan": "Beykoz Kundura",
+     "mekan_anahtar": "beykoz-kundura"
+    },
+    {
+     "ad": "Harry Potter ve Ateş Kadehi™ In Concert",
+     "saat": "20:00",
+     "mekan": "Volkswagen Arena",
+     "mekan_anahtar": "volkswagen-arena"
+    },
+    {
+     "ad": "The Art Of Flow",
+     "saat": "10:00",
+     "mekan": "The Cube",
+     "mekan_anahtar": "the-cube"
+    }
+   ],
+   "geometri": {
+    "kartlar": [
+     {
+      "no": 3,
+      "cizgi": 0,
+      "x": 10,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 1,
+      "cizgi": 1,
+      "x": 10,
+      "y": 120,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 4,
+      "cizgi": 2,
+      "x": 10,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 5,
+      "cizgi": 3,
+      "x": 10,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 2,
+      "cizgi": 4,
+      "x": 10,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 8,
+      "cizgi": 5,
+      "x": 730,
+      "y": 630,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 9,
+      "cizgi": 6,
+      "x": 730,
+      "y": 800,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 6,
+      "cizgi": 7,
+      "x": 730,
+      "y": 290,
+      "w": 340,
+      "h": 166
+     },
+     {
+      "no": 7,
+      "cizgi": 8,
+      "x": 730,
+      "y": 460,
+      "w": 340,
+      "h": 166
+     }
+    ],
+    "igneler": [
+     {
+      "no": 3,
+      "x": 353,
+      "y": 521,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 1,
+      "x": 366,
+      "y": 385,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 4,
+      "x": 361,
+      "y": 637,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 5,
+      "x": 395,
+      "y": 637,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 2,
+      "x": 407,
+      "y": 548,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 8,
+      "x": 658,
+      "y": 898,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 9,
+      "x": 640,
+      "y": 929,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 6,
+      "x": 398,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     },
+     {
+      "no": 7,
+      "x": 432,
+      "y": 482,
+      "w": 38,
+      "h": 38
+     }
+    ],
+    "satirlar": [
+     {
+      "no": 10,
+      "x": 36,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 11,
+      "x": 556,
+      "y": 1044,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 12,
+      "x": 36,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     },
+     {
+      "no": 13,
+      "x": 556,
+      "y": 1156,
+      "w": 488,
+      "h": 108
+     }
+    ]
+   }
+  },
+  {
+   "dosya": "02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 519,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 8,
+   "ad_punto": 28,
+   "sigdi": true,
+   "ilceler": [
+    "Beyoğlu",
+    "Şişli"
+   ],
+   "taraf": "sol",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 1,
+   "kapsama": 0.71,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 426,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 0,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Şişli",
+    "Sarıyer",
+    "Beşiktaş"
+   ],
+   "taraf": "sag",
+   "pencere_km": 4.0,
+   "uzak": false,
+   "panorama": 2,
+   "kapsama": 0.71,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 327,
+   "etkinlik": 8,
+   "mekan": 6,
+   "cekirdekte": 7,
+   "ad_punto": 32,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar"
+   ],
+   "taraf": "sol",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 1,
+   "kapsama": 0.93,
+   "numara": [
+    1,
+    8
+   ]
+  },
+  {
+   "dosya": "05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 300,
+   "etkinlik": 6,
+   "mekan": 5,
+   "cekirdekte": 5,
+   "ad_punto": 38,
+   "sigdi": true,
+   "ilceler": [
+    "Kadıköy",
+    "Üsküdar",
+    "Ataşehir"
+   ],
+   "taraf": "sag",
+   "pencere_km": 7.0,
+   "uzak": true,
+   "panorama": 2,
+   "kapsama": 0.93,
+   "numara": [
+    9,
+    14
+   ]
+  },
+  {
+   "dosya": "06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1350
+   ],
+   "kb": 369,
+   "etkinlik": 14,
+   "ilce": 10,
+   "satir": 116,
+   "sigdi": true
+  }
+ ],
+ "uyarilar": [],
+ "story": {
+  "dosya": "story.jpg",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 328
+ },
+ "story_seti": [
+  {
+   "dosya": "story.mp4",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 477,
+   "sure_sn": 7.9
+  },
+  {
+   "dosya": "story-02-avrupa-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 442
+  },
+  {
+   "dosya": "story-03-avrupa-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 375
+  },
+  {
+   "dosya": "story-04-anadolu-harita-1.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 311
+  },
+  {
+   "dosya": "story-05-anadolu-harita-2.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 291
+  },
+  {
+   "dosya": "story-06-diger-ilceler.jpg",
+   "boyut": [
+    1080,
+    1920
+   ],
+   "kb": 345
+  }
+ ],
+ "story_video": {
+  "dosya": "story.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 477,
+  "sure_sn": 7.9
+ },
+ "reel": {
+  "dosya": "reel.mp4",
+  "boyut": [
+   1080,
+   1920
+  ],
+  "kb": 4489,
+  "sure_sn": 13.7,
+  "one_cikan": [
+   "Babylon Picks: Al-Qasar feat. BaBa ZuLa",
+   "Devrimciler Asla Ölmez",
+   "Edusa - İstanbul DOB",
+   "Kongo Çocuğu",
+   "Cadı Kazanı"
+  ],
+  "kapak": "reel-kapak.jpg",
+  "muzik": "strolling-stripes.mp3"
+ }
+}
